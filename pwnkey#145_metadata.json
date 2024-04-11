@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 145,
+    "assets": [
+        "Cyan.png",
+        "Golden hair.png",
+        "Body.png",
+        "Shocked open mouth .png",
+        "Gold earrings .png",
+        "Hidden hair.png",
+        "Vikings hat.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:29:19",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Shocked open mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Gold earrings  ears fluttered in the electronic winds, and Hidden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "145_2024-04-11_232919",
+    "description": "a new Pwnkey with Cyan, Golden hair, Body, Shocked open mouth , Gold earrings , Hidden hair, Vikings hat, Horns",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Golden hair.png": "14.62%",
+        "Body.png": "20.28%",
+        "Shocked open mouth .png": "13.88%",
+        "Gold earrings .png": "13.97%",
+        "Hidden hair.png": "7.44%",
+        "Vikings hat.png": "12.58%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Uncommon"
+}

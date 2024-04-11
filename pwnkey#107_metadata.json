@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 107,
+    "assets": [
+        "Green.png",
+        "Dark bad eyes.png",
+        "Body.png",
+        "Sad.png",
+        "Ears Up!.png",
+        "Pink hair.png",
+        "Vikings hat.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:29:16",
+    "story": "Pwnky, a creature from the Green of Inpinity Online, ventured through the digital realms with Dark bad eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Pink hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "107_2024-04-11_232916",
+    "description": "a new Pwnkey with Green, Dark bad eyes, Body, Sad, Ears Up!, Pink hair, Vikings hat, Horns",
+    "rarity_percentages": {
+        "Green.png": "6.29%",
+        "Dark bad eyes.png": "7.42%",
+        "Body.png": "20.28%",
+        "Sad.png": "14.55%",
+        "Ears Up!.png": "14.30%",
+        "Pink hair.png": "7.30%",
+        "Vikings hat.png": "12.58%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

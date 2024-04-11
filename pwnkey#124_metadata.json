@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 124,
+    "assets": [
+        "City.png",
+        "Red eyes.png",
+        "Sick.png",
+        "Smiling .png",
+        "Colored ears.png",
+        "Yellow hair .png",
+        "Vikings hat.png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:29:18",
+    "story": "Pwnky, a creature from the City of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Yellow hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "124_2024-04-11_232918",
+    "description": "a new Pwnkey with City, Red eyes, Sick, Smiling , Colored ears, Yellow hair , Vikings hat, Blue glasses",
+    "rarity_percentages": {
+        "City.png": "6.44%",
+        "Red eyes.png": "7.24%",
+        "Sick.png": "20.73%",
+        "Smiling .png": "14.37%",
+        "Colored ears.png": "14.78%",
+        "Yellow hair .png": "6.38%",
+        "Vikings hat.png": "12.58%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Common"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 127,
+    "assets": [
+        "Cyan.png",
+        "Green eyes.png",
+        "Mechanic body.png",
+        "Laughing .png",
+        "Comic ear.png",
+        "Dark brown hair.png",
+        "Hat with leafs .png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:29:18",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "127_2024-04-11_232918",
+    "description": "a new Pwnkey with Cyan, Green eyes, Mechanic body, Laughing , Comic ear, Dark brown hair, Hat with leafs , Jacket ",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Green eyes.png": "7.03%",
+        "Mechanic body.png": "19.40%",
+        "Laughing .png": "14.44%",
+        "Comic ear.png": "14.02%",
+        "Dark brown hair.png": "6.99%",
+        "Hat with leafs .png": "12.58%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Normal"
+}
