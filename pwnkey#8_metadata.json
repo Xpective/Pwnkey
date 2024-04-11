@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 8,
+    "assets": [
+        "City.png",
+        "Pink eyes.png",
+        "Golden body.png",
+        "Sad.png",
+        "Ears Up!.png",
+        "Cool blue hair.png",
+        "Old captain .png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:29:08",
+    "story": "Pwnky, a creature from the City of Inpinity Online, ventured through the digital realms with Pink eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Cool blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Old captain  hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "8_2024-04-11_232908",
+    "description": "a new Pwnkey with City, Pink eyes, Golden body, Sad, Ears Up!, Cool blue hair, Old captain , Halo",
+    "rarity_percentages": {
+        "City.png": "6.44%",
+        "Pink eyes.png": "7.11%",
+        "Golden body.png": "20.32%",
+        "Sad.png": "14.55%",
+        "Ears Up!.png": "14.30%",
+        "Cool blue hair.png": "7.40%",
+        "Old captain .png": "12.41%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Normal"
+}

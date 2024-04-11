@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4,
+    "assets": [
+        "Purple night.png",
+        "Eyes of love.png",
+        "Body.png",
+        "Yawning.png",
+        "Sad ear.png",
+        "Dark brown hair.png",
+        "Old captain .png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:29:08",
+    "story": "Pwnky, a creature from the Purple night of Inpinity Online, ventured through the digital realms with Eyes of love eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Old captain  hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4_2024-04-11_232908",
+    "description": "a new Pwnkey with Purple night, Eyes of love, Body, Yawning, Sad ear, Dark brown hair, Old captain , Blue sunglasses ",
+    "rarity_percentages": {
+        "Purple night.png": "6.31%",
+        "Eyes of love.png": "6.83%",
+        "Body.png": "20.28%",
+        "Yawning.png": "14.68%",
+        "Sad ear.png": "14.39%",
+        "Dark brown hair.png": "6.99%",
+        "Old captain .png": "12.41%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Common"
+}

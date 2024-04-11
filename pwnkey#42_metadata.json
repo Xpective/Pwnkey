@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 42,
+    "assets": [
+        "Blue waves.png",
+        "Dreaming eyes .png",
+        "Mechanic body.png",
+        "Shocked open mouth .png",
+        "Ears bow.png",
+        "Yellow heroic hair .png",
+        "Black hat.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:29:11",
+    "story": "Pwnky, a creature from the Blue waves of Inpinity Online, ventured through the digital realms with Dreaming eyes  eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Shocked open mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Yellow heroic hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Black hat hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "42_2024-04-11_232911",
+    "description": "a new Pwnkey with Blue waves, Dreaming eyes , Mechanic body, Shocked open mouth , Ears bow, Yellow heroic hair , Black hat, Halo",
+    "rarity_percentages": {
+        "Blue waves.png": "6.42%",
+        "Dreaming eyes .png": "7.13%",
+        "Mechanic body.png": "19.40%",
+        "Shocked open mouth .png": "13.88%",
+        "Ears bow.png": "14.11%",
+        "Yellow heroic hair .png": "7.27%",
+        "Black hat.png": "12.77%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Rare"
+}

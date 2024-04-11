@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 24,
+    "assets": [
+        "Beach.png",
+        "Pink eyes.png",
+        "Golden body.png",
+        "Hilarious laughing .png",
+        "Gold earrings .png",
+        "Cool red hair.png",
+        "Hat with leafs .png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:29:10",
+    "story": "Pwnky, a creature from the Beach of Inpinity Online, ventured through the digital realms with Pink eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Hilarious laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Gold earrings  ears fluttered in the electronic winds, and Cool red hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "24_2024-04-11_232910",
+    "description": "a new Pwnkey with Beach, Pink eyes, Golden body, Hilarious laughing , Gold earrings , Cool red hair, Hat with leafs , Horns",
+    "rarity_percentages": {
+        "Beach.png": "5.87%",
+        "Pink eyes.png": "7.11%",
+        "Golden body.png": "20.32%",
+        "Hilarious laughing .png": "13.52%",
+        "Gold earrings .png": "13.97%",
+        "Cool red hair.png": "7.26%",
+        "Hat with leafs .png": "12.58%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Epic"
+}

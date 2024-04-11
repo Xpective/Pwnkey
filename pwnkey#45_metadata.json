@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 45,
+    "assets": [
+        "Space.png",
+        "Bad eyes.png",
+        "Body.png",
+        "Smiling .png",
+        "Ears bow.png",
+        "Cool blue hair.png",
+        "Hat with leafs .png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:29:12",
+    "story": "Pwnky, a creature from the Space of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Cool blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "45_2024-04-11_232912",
+    "description": "a new Pwnkey with Space, Bad eyes, Body, Smiling , Ears bow, Cool blue hair, Hat with leafs , Horns",
+    "rarity_percentages": {
+        "Space.png": "6.65%",
+        "Bad eyes.png": "7.16%",
+        "Body.png": "20.28%",
+        "Smiling .png": "14.37%",
+        "Ears bow.png": "14.11%",
+        "Cool blue hair.png": "7.40%",
+        "Hat with leafs .png": "12.58%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}
