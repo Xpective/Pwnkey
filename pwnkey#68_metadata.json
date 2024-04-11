@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 68,
+    "assets": [
+        "Black night.png",
+        "Dark bad eyes.png",
+        "Golden body.png",
+        "Mechanic mouth .png",
+        "Ears bow.png",
+        "Brown hair.png",
+        "Capitain.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:29:13",
+    "story": "Pwnky, a creature from the Black night of Inpinity Online, ventured through the digital realms with Dark bad eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "68_2024-04-11_232913",
+    "description": "a new Pwnkey with Black night, Dark bad eyes, Golden body, Mechanic mouth , Ears bow, Brown hair, Capitain, Halo",
+    "rarity_percentages": {
+        "Black night.png": "5.81%",
+        "Dark bad eyes.png": "7.42%",
+        "Golden body.png": "20.32%",
+        "Mechanic mouth .png": "14.74%",
+        "Ears bow.png": "14.11%",
+        "Brown hair.png": "7.04%",
+        "Capitain.png": "12.01%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Normal"
+}
