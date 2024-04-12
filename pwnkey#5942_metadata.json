@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5942,
+    "assets": [
+        "City.png",
+        "Dreaming eyes.png",
+        "Mechanic body.png",
+        "Sad.png",
+        "Ears bow.png",
+        "Dark brown hair.png",
+        "Crown.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:37:47",
+    "story": "Pwnky, a creature from the City of Inpinity Online, ventured through the digital realms with Dreaming eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5942_2024-04-11_233747",
+    "description": "a new Pwnkey with City, Dreaming eyes, Mechanic body, Sad, Ears bow, Dark brown hair, Crown, Glasses",
+    "rarity_percentages": {
+        "City.png": "6.44%",
+        "Dreaming eyes.png": "7.41%",
+        "Mechanic body.png": "19.40%",
+        "Sad.png": "14.55%",
+        "Ears bow.png": "14.11%",
+        "Dark brown hair.png": "6.99%",
+        "Crown.png": "12.51%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Common"
+}

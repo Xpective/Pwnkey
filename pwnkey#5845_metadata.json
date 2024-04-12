@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5845,
+    "assets": [
+        "Purple night.png",
+        "Yellow eyes .png",
+        "Golden body.png",
+        "Smiling .png",
+        "Sad ear.png",
+        "Golden hair.png",
+        "Capitain.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:37:38",
+    "story": "Pwnky, a creature from the Purple night of Inpinity Online, ventured through the digital realms with Yellow eyes  eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Golden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5845_2024-04-11_233738",
+    "description": "a new Pwnkey with Purple night, Yellow eyes , Golden body, Smiling , Sad ear, Golden hair, Capitain, sunglasses beach",
+    "rarity_percentages": {
+        "Purple night.png": "6.31%",
+        "Yellow eyes .png": "6.93%",
+        "Golden body.png": "20.32%",
+        "Smiling .png": "14.37%",
+        "Sad ear.png": "14.39%",
+        "Golden hair.png": "14.62%",
+        "Capitain.png": "12.01%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5134,
+    "assets": [
+        "Cyan.png",
+        "Golden hair.png",
+        "Body.png",
+        "Sad.png",
+        "Golden ears.png",
+        "Dark hair.png",
+        "Astronaut suite .png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:36:32",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Dark hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5134_2024-04-11_233632",
+    "description": "a new Pwnkey with Cyan, Golden hair, Body, Sad, Golden ears, Dark hair, Astronaut suite , Blue sunglasses ",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Golden hair.png": "14.62%",
+        "Body.png": "20.28%",
+        "Sad.png": "14.55%",
+        "Golden ears.png": "14.61%",
+        "Dark hair.png": "6.91%",
+        "Astronaut suite .png": "12.23%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Rare"
+}

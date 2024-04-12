@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5182,
+    "assets": [
+        "Yellow Clouds.png",
+        "Dark bad eyes.png",
+        "Body.png",
+        "Sad.png",
+        "Ears bow.png",
+        "Cool red hair.png",
+        "Astronaut suite .png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:36:37",
+    "story": "Pwnky, a creature from the Yellow Clouds of Inpinity Online, ventured through the digital realms with Dark bad eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Cool red hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5182_2024-04-11_233637",
+    "description": "a new Pwnkey with Yellow Clouds, Dark bad eyes, Body, Sad, Ears bow, Cool red hair, Astronaut suite , Blue glasses",
+    "rarity_percentages": {
+        "Yellow Clouds.png": "6.11%",
+        "Dark bad eyes.png": "7.42%",
+        "Body.png": "20.28%",
+        "Sad.png": "14.55%",
+        "Ears bow.png": "14.11%",
+        "Cool red hair.png": "7.26%",
+        "Astronaut suite .png": "12.23%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Normal"
+}

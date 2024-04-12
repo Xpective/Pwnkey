@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5052,
+    "assets": [
+        "City.png",
+        "Dreaming eyes.png",
+        "Sick.png",
+        "Smiling .png",
+        "Sad ear.png",
+        "Cool blue hair.png",
+        "Astronaut suite .png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:36:25",
+    "story": "Pwnky, a creature from the City of Inpinity Online, ventured through the digital realms with Dreaming eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Cool blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5052_2024-04-11_233625",
+    "description": "a new Pwnkey with City, Dreaming eyes, Sick, Smiling , Sad ear, Cool blue hair, Astronaut suite , Glasses",
+    "rarity_percentages": {
+        "City.png": "6.44%",
+        "Dreaming eyes.png": "7.41%",
+        "Sick.png": "20.73%",
+        "Smiling .png": "14.37%",
+        "Sad ear.png": "14.39%",
+        "Cool blue hair.png": "7.40%",
+        "Astronaut suite .png": "12.23%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Common"
+}

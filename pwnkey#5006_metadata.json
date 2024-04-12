@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5006,
+    "assets": [
+        "Black night.png",
+        "Eyes of love.png",
+        "Golden body.png",
+        "Sad.png",
+        "Ears bow.png",
+        "Hair on fire.png",
+        "Capitain.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:36:20",
+    "story": "Pwnky, a creature from the Black night of Inpinity Online, ventured through the digital realms with Eyes of love eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5006_2024-04-11_233620",
+    "description": "a new Pwnkey with Black night, Eyes of love, Golden body, Sad, Ears bow, Hair on fire, Capitain, Horns",
+    "rarity_percentages": {
+        "Black night.png": "5.81%",
+        "Eyes of love.png": "6.83%",
+        "Golden body.png": "20.32%",
+        "Sad.png": "14.55%",
+        "Ears bow.png": "14.11%",
+        "Hair on fire.png": "7.30%",
+        "Capitain.png": "12.01%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Common"
+}

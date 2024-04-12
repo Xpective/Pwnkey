@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5643,
+    "assets": [
+        "Icy land.png",
+        "Golden hair.png",
+        "Sick.png",
+        "Laughing .png",
+        "Comic ear.png",
+        "Cool blue hair.png",
+        "Astronaut suite .png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:37:19",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Cool blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5643_2024-04-11_233719",
+    "description": "a new Pwnkey with Icy land, Golden hair, Sick, Laughing , Comic ear, Cool blue hair, Astronaut suite , Glasses",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Golden hair.png": "14.62%",
+        "Sick.png": "20.73%",
+        "Laughing .png": "14.44%",
+        "Comic ear.png": "14.02%",
+        "Cool blue hair.png": "7.40%",
+        "Astronaut suite .png": "12.23%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

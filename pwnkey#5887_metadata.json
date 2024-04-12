@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5887,
+    "assets": [
+        "Beach.png",
+        "Red eyes.png",
+        "Mechanic body.png",
+        "Smiling .png",
+        "Ears Up!.png",
+        "Hair on fire.png",
+        "Hat with leafs .png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:37:42",
+    "story": "Pwnky, a creature from the Beach of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5887_2024-04-11_233742",
+    "description": "a new Pwnkey with Beach, Red eyes, Mechanic body, Smiling , Ears Up!, Hair on fire, Hat with leafs , Jacket ",
+    "rarity_percentages": {
+        "Beach.png": "5.87%",
+        "Red eyes.png": "7.24%",
+        "Mechanic body.png": "19.40%",
+        "Smiling .png": "14.37%",
+        "Ears Up!.png": "14.30%",
+        "Hair on fire.png": "7.30%",
+        "Hat with leafs .png": "12.58%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Uncommon"
+}

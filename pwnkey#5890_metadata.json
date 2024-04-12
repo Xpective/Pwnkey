@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5890,
+    "assets": [
+        "Cyan.png",
+        "Red eyes.png",
+        "Mechanic body.png",
+        "Hilarious laughing .png",
+        "Golden ears.png",
+        "Blonde hair.png",
+        "Astronaut suite .png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:37:42",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Hilarious laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Blonde hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5890_2024-04-11_233742",
+    "description": "a new Pwnkey with Cyan, Red eyes, Mechanic body, Hilarious laughing , Golden ears, Blonde hair, Astronaut suite , Halo",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Red eyes.png": "7.24%",
+        "Mechanic body.png": "19.40%",
+        "Hilarious laughing .png": "13.52%",
+        "Golden ears.png": "14.61%",
+        "Blonde hair.png": "6.98%",
+        "Astronaut suite .png": "12.23%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Common"
+}

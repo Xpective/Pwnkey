@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5013,
+    "assets": [
+        "Beach.png",
+        "Bad eyes.png",
+        "Sick.png",
+        "Yawning.png",
+        "Ears bow.png",
+        "Cool red hair.png",
+        "Comic crown.png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:36:21",
+    "story": "Pwnky, a creature from the Beach of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Cool red hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5013_2024-04-11_233621",
+    "description": "a new Pwnkey with Beach, Bad eyes, Sick, Yawning, Ears bow, Cool red hair, Comic crown, Blue sunglasses ",
+    "rarity_percentages": {
+        "Beach.png": "5.87%",
+        "Bad eyes.png": "7.16%",
+        "Sick.png": "20.73%",
+        "Yawning.png": "14.68%",
+        "Ears bow.png": "14.11%",
+        "Cool red hair.png": "7.26%",
+        "Comic crown.png": "13.09%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Normal"
+}

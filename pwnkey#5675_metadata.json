@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5675,
+    "assets": [
+        "Green.png",
+        "Green eyes.png",
+        "Mechanic body.png",
+        "Yawning.png",
+        "Golden ears.png",
+        "Pink hair.png",
+        "Astronaut suite .png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:37:22",
+    "story": "Pwnky, a creature from the Green of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Pink hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5675_2024-04-11_233722",
+    "description": "a new Pwnkey with Green, Green eyes, Mechanic body, Yawning, Golden ears, Pink hair, Astronaut suite , Horns",
+    "rarity_percentages": {
+        "Green.png": "6.29%",
+        "Green eyes.png": "7.03%",
+        "Mechanic body.png": "19.40%",
+        "Yawning.png": "14.68%",
+        "Golden ears.png": "14.61%",
+        "Pink hair.png": "7.30%",
+        "Astronaut suite .png": "12.23%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5136,
+    "assets": [
+        "Space.png",
+        "Pink eyes.png",
+        "Golden body.png",
+        "Laughing .png",
+        "Sad ear.png",
+        "Hair on fire.png",
+        "Capitain.png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:36:33",
+    "story": "Pwnky, a creature from the Space of Inpinity Online, ventured through the digital realms with Pink eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5136_2024-04-11_233633",
+    "description": "a new Pwnkey with Space, Pink eyes, Golden body, Laughing , Sad ear, Hair on fire, Capitain, Blue sunglasses ",
+    "rarity_percentages": {
+        "Space.png": "6.65%",
+        "Pink eyes.png": "7.11%",
+        "Golden body.png": "20.32%",
+        "Laughing .png": "14.44%",
+        "Sad ear.png": "14.39%",
+        "Hair on fire.png": "7.30%",
+        "Capitain.png": "12.01%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Normal"
+}

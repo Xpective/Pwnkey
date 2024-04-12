@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5578,
+    "assets": [
+        "Icy land.png",
+        "Bad eyes.png",
+        "Sick.png",
+        "Sad.png",
+        "Colored ears.png",
+        "Golden hair.png",
+        "Hat with leafs .png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:37:13",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Golden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5578_2024-04-11_233713",
+    "description": "a new Pwnkey with Icy land, Bad eyes, Sick, Sad, Colored ears, Golden hair, Hat with leafs , Jacket ",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Bad eyes.png": "7.16%",
+        "Sick.png": "20.73%",
+        "Sad.png": "14.55%",
+        "Colored ears.png": "14.78%",
+        "Golden hair.png": "14.62%",
+        "Hat with leafs .png": "12.58%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Rare"
+}

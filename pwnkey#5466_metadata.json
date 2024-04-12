@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5466,
+    "assets": [
+        "Yellow.png",
+        "Dark bad eyes.png",
+        "Body.png",
+        "Sad.png",
+        "Sad ear.png",
+        "Blue heroic hair.png",
+        "Astronaut suite .png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:37:03",
+    "story": "Pwnky, a creature from the Yellow of Inpinity Online, ventured through the digital realms with Dark bad eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Blue heroic hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5466_2024-04-11_233703",
+    "description": "a new Pwnkey with Yellow, Dark bad eyes, Body, Sad, Sad ear, Blue heroic hair, Astronaut suite , sunglasses beach",
+    "rarity_percentages": {
+        "Yellow.png": "6.45%",
+        "Dark bad eyes.png": "7.42%",
+        "Body.png": "20.28%",
+        "Sad.png": "14.55%",
+        "Sad ear.png": "14.39%",
+        "Blue heroic hair.png": "7.51%",
+        "Astronaut suite .png": "12.23%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Legendary"
+}

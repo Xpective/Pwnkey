@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5095,
+    "assets": [
+        "Green.png",
+        "Golden hair.png",
+        "Mechanic body.png",
+        "Yawning.png",
+        "Sad ear.png",
+        "Cool red hair.png",
+        "Comic crown.png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:36:29",
+    "story": "Pwnky, a creature from the Green of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Cool red hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5095_2024-04-11_233629",
+    "description": "a new Pwnkey with Green, Golden hair, Mechanic body, Yawning, Sad ear, Cool red hair, Comic crown, Blue sunglasses ",
+    "rarity_percentages": {
+        "Green.png": "6.29%",
+        "Golden hair.png": "14.62%",
+        "Mechanic body.png": "19.40%",
+        "Yawning.png": "14.68%",
+        "Sad ear.png": "14.39%",
+        "Cool red hair.png": "7.26%",
+        "Comic crown.png": "13.09%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Normal"
+}

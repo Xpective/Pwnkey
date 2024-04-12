@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5284,
+    "assets": [
+        "Purple night.png",
+        "Green eyes.png",
+        "Zombie.png",
+        "Yawning.png",
+        "Ears Up!.png",
+        "Golden hair.png",
+        "Comic crown.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:36:46",
+    "story": "Pwnky, a creature from the Purple night of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Golden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5284_2024-04-11_233646",
+    "description": "a new Pwnkey with Purple night, Green eyes, Zombie, Yawning, Ears Up!, Golden hair, Comic crown, Glasses",
+    "rarity_percentages": {
+        "Purple night.png": "6.31%",
+        "Green eyes.png": "7.03%",
+        "Zombie.png": "19.45%",
+        "Yawning.png": "14.68%",
+        "Ears Up!.png": "14.30%",
+        "Golden hair.png": "14.62%",
+        "Comic crown.png": "13.09%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

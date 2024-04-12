@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5820,
+    "assets": [
+        "Icy land.png",
+        "Yellow eyes .png",
+        "Zombie.png",
+        "Mechanic mouth .png",
+        "Ears Up!.png",
+        "Hair on fire.png",
+        "Black hat.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:37:35",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Yellow eyes  eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Black hat hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5820_2024-04-11_233735",
+    "description": "a new Pwnkey with Icy land, Yellow eyes , Zombie, Mechanic mouth , Ears Up!, Hair on fire, Black hat, Horns",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Yellow eyes .png": "6.93%",
+        "Zombie.png": "19.45%",
+        "Mechanic mouth .png": "14.74%",
+        "Ears Up!.png": "14.30%",
+        "Hair on fire.png": "7.30%",
+        "Black hat.png": "12.77%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

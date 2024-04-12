@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5616,
+    "assets": [
+        "Cyan.png",
+        "Bad eyes.png",
+        "Zombie.png",
+        "Sad.png",
+        "Golden ears.png",
+        "Long blue hair.png",
+        "Capitain.png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:37:17",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Long blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5616_2024-04-11_233717",
+    "description": "a new Pwnkey with Cyan, Bad eyes, Zombie, Sad, Golden ears, Long blue hair, Capitain, Blue glasses",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Bad eyes.png": "7.16%",
+        "Zombie.png": "19.45%",
+        "Sad.png": "14.55%",
+        "Golden ears.png": "14.61%",
+        "Long blue hair.png": "7.23%",
+        "Capitain.png": "12.01%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Normal"
+}

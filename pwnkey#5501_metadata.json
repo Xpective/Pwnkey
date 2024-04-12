@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 5501,
+    "assets": [
+        "City.png",
+        "Bad eyes.png",
+        "Zombie.png",
+        "Shocked open mouth .png",
+        "Golden ears.png",
+        "Long blue hair.png",
+        "Capitain.png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:37:06",
+    "story": "Pwnky, a creature from the City of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Shocked open mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Long blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "5501_2024-04-11_233706",
+    "description": "a new Pwnkey with City, Bad eyes, Zombie, Shocked open mouth , Golden ears, Long blue hair, Capitain, Blue sunglasses ",
+    "rarity_percentages": {
+        "City.png": "6.44%",
+        "Bad eyes.png": "7.16%",
+        "Zombie.png": "19.45%",
+        "Shocked open mouth .png": "13.88%",
+        "Golden ears.png": "14.61%",
+        "Long blue hair.png": "7.23%",
+        "Capitain.png": "12.01%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Normal"
+}
