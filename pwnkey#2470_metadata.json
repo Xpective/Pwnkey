@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2470,
+    "assets": [
+        "Icy land.png",
+        "Golden hair.png",
+        "Golden body.png",
+        "Smiling .png",
+        "Comic ear.png",
+        "Dark brown hair.png",
+        "Capitain.png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:32:34",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2470_2024-04-11_233234",
+    "description": "a new Pwnkey with Icy land, Golden hair, Golden body, Smiling , Comic ear, Dark brown hair, Capitain, Jacket ",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Golden hair.png": "14.62%",
+        "Golden body.png": "20.32%",
+        "Smiling .png": "14.37%",
+        "Comic ear.png": "14.02%",
+        "Dark brown hair.png": "6.99%",
+        "Capitain.png": "12.01%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Normal"
+}

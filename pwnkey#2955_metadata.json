@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2955,
+    "assets": [
+        "Cyan.png",
+        "Dreaming eyes .png",
+        "Zombie.png",
+        "Laughing .png",
+        "Ears bow.png",
+        "Dark hair.png",
+        "Capitain.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:33:16",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Dreaming eyes  eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2955_2024-04-11_233316",
+    "description": "a new Pwnkey with Cyan, Dreaming eyes , Zombie, Laughing , Ears bow, Dark hair, Capitain, Horns",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Dreaming eyes .png": "7.13%",
+        "Zombie.png": "19.45%",
+        "Laughing .png": "14.44%",
+        "Ears bow.png": "14.11%",
+        "Dark hair.png": "6.91%",
+        "Capitain.png": "12.01%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

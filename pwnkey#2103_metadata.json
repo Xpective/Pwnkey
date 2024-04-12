@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2103,
+    "assets": [
+        "Cyan.png",
+        "Pink eyes.png",
+        "Zombie.png",
+        "Laughing .png",
+        "Ears Up!.png",
+        "Hidden hair.png",
+        "Vikings hat.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:32:02",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Pink eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Hidden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2103_2024-04-11_233202",
+    "description": "a new Pwnkey with Cyan, Pink eyes, Zombie, Laughing , Ears Up!, Hidden hair, Vikings hat, Glasses",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Pink eyes.png": "7.11%",
+        "Zombie.png": "19.45%",
+        "Laughing .png": "14.44%",
+        "Ears Up!.png": "14.30%",
+        "Hidden hair.png": "7.44%",
+        "Vikings hat.png": "12.58%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

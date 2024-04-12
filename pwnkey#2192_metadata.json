@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2192,
+    "assets": [
+        "Cyan.png",
+        "Bad eyes.png",
+        "Body.png",
+        "Mechanic mouth .png",
+        "Ears Up!.png",
+        "Cool red hair.png",
+        "Hat with leafs .png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:32:09",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Cool red hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2192_2024-04-11_233209",
+    "description": "a new Pwnkey with Cyan, Bad eyes, Body, Mechanic mouth , Ears Up!, Cool red hair, Hat with leafs , Blue sunglasses ",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Bad eyes.png": "7.16%",
+        "Body.png": "20.28%",
+        "Mechanic mouth .png": "14.74%",
+        "Ears Up!.png": "14.30%",
+        "Cool red hair.png": "7.26%",
+        "Hat with leafs .png": "12.58%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Uncommon"
+}

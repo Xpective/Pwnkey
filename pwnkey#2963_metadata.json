@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2963,
+    "assets": [
+        "Beach.png",
+        "Dreaming eyes .png",
+        "Golden body.png",
+        "Mechanic mouth .png",
+        "Golden ears.png",
+        "Golden hair.png",
+        "Comic crown.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:33:17",
+    "story": "Pwnky, a creature from the Beach of Inpinity Online, ventured through the digital realms with Dreaming eyes  eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Golden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2963_2024-04-11_233317",
+    "description": "a new Pwnkey with Beach, Dreaming eyes , Golden body, Mechanic mouth , Golden ears, Golden hair, Comic crown, Halo",
+    "rarity_percentages": {
+        "Beach.png": "5.87%",
+        "Dreaming eyes .png": "7.13%",
+        "Golden body.png": "20.32%",
+        "Mechanic mouth .png": "14.74%",
+        "Golden ears.png": "14.61%",
+        "Golden hair.png": "14.62%",
+        "Comic crown.png": "13.09%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Epic"
+}

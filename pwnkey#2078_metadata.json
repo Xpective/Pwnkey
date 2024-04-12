@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2078,
+    "assets": [
+        "Blue waves.png",
+        "Dreaming eyes.png",
+        "Sick.png",
+        "Yawning.png",
+        "Golden ears.png",
+        "Hair on fire.png",
+        "Old captain .png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:32:00",
+    "story": "Pwnky, a creature from the Blue waves of Inpinity Online, ventured through the digital realms with Dreaming eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Old captain  hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2078_2024-04-11_233200",
+    "description": "a new Pwnkey with Blue waves, Dreaming eyes, Sick, Yawning, Golden ears, Hair on fire, Old captain , Glasses",
+    "rarity_percentages": {
+        "Blue waves.png": "6.42%",
+        "Dreaming eyes.png": "7.41%",
+        "Sick.png": "20.73%",
+        "Yawning.png": "14.68%",
+        "Golden ears.png": "14.61%",
+        "Hair on fire.png": "7.30%",
+        "Old captain .png": "12.41%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Common"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2890,
+    "assets": [
+        "Farm.png",
+        "Dark bad eyes.png",
+        "Sick.png",
+        "Yawning.png",
+        "Comic ear.png",
+        "Dark brown hair.png",
+        "Comic crown.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:33:10",
+    "story": "Pwnky, a creature from the Farm of Inpinity Online, ventured through the digital realms with Dark bad eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2890_2024-04-11_233310",
+    "description": "a new Pwnkey with Farm, Dark bad eyes, Sick, Yawning, Comic ear, Dark brown hair, Comic crown, sunglasses beach",
+    "rarity_percentages": {
+        "Farm.png": "6.17%",
+        "Dark bad eyes.png": "7.42%",
+        "Sick.png": "20.73%",
+        "Yawning.png": "14.68%",
+        "Comic ear.png": "14.02%",
+        "Dark brown hair.png": "6.99%",
+        "Comic crown.png": "13.09%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Uncommon"
+}

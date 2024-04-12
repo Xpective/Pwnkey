@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2706,
+    "assets": [
+        "City.png",
+        "Dark bad eyes.png",
+        "Sick.png",
+        "Yawning.png",
+        "Ears Up!.png",
+        "Yellow hair .png",
+        "Vikings hat.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:32:54",
+    "story": "Pwnky, a creature from the City of Inpinity Online, ventured through the digital realms with Dark bad eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Yellow hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2706_2024-04-11_233254",
+    "description": "a new Pwnkey with City, Dark bad eyes, Sick, Yawning, Ears Up!, Yellow hair , Vikings hat, sunglasses beach",
+    "rarity_percentages": {
+        "City.png": "6.44%",
+        "Dark bad eyes.png": "7.42%",
+        "Sick.png": "20.73%",
+        "Yawning.png": "14.68%",
+        "Ears Up!.png": "14.30%",
+        "Yellow hair .png": "6.38%",
+        "Vikings hat.png": "12.58%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2010,
+    "assets": [
+        "Icy land.png",
+        "Bad eyes.png",
+        "Golden body.png",
+        "Mechanic mouth .png",
+        "Sad ear.png",
+        "Yellow heroic hair .png",
+        "Comic crown.png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:31:54",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Yellow heroic hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2010_2024-04-11_233154",
+    "description": "a new Pwnkey with Icy land, Bad eyes, Golden body, Mechanic mouth , Sad ear, Yellow heroic hair , Comic crown, Blue glasses",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Bad eyes.png": "7.16%",
+        "Golden body.png": "20.32%",
+        "Mechanic mouth .png": "14.74%",
+        "Sad ear.png": "14.39%",
+        "Yellow heroic hair .png": "7.27%",
+        "Comic crown.png": "13.09%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Uncommon"
+}

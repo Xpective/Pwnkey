@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2352,
+    "assets": [
+        "Black night.png",
+        "Brown eyes .png",
+        "Body.png",
+        "Shocked open mouth .png",
+        "Comic ear.png",
+        "Cool red hair.png",
+        "Capitain.png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:32:23",
+    "story": "Pwnky, a creature from the Black night of Inpinity Online, ventured through the digital realms with Brown eyes  eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Shocked open mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Cool red hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2352_2024-04-11_233223",
+    "description": "a new Pwnkey with Black night, Brown eyes , Body, Shocked open mouth , Comic ear, Cool red hair, Capitain, Blue sunglasses ",
+    "rarity_percentages": {
+        "Black night.png": "5.81%",
+        "Brown eyes .png": "6.95%",
+        "Body.png": "20.28%",
+        "Shocked open mouth .png": "13.88%",
+        "Comic ear.png": "14.02%",
+        "Cool red hair.png": "7.26%",
+        "Capitain.png": "12.01%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Epic"
+}

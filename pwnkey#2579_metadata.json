@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2579,
+    "assets": [
+        "Blue waves.png",
+        "Golden hair.png",
+        "Body.png",
+        "Yawning.png",
+        "Ears Up!.png",
+        "Dark brown hair.png",
+        "Vikings hat.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:32:43",
+    "story": "Pwnky, a creature from the Blue waves of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2579_2024-04-11_233243",
+    "description": "a new Pwnkey with Blue waves, Golden hair, Body, Yawning, Ears Up!, Dark brown hair, Vikings hat, Halo",
+    "rarity_percentages": {
+        "Blue waves.png": "6.42%",
+        "Golden hair.png": "14.62%",
+        "Body.png": "20.28%",
+        "Yawning.png": "14.68%",
+        "Ears Up!.png": "14.30%",
+        "Dark brown hair.png": "6.99%",
+        "Vikings hat.png": "12.58%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Uncommon"
+}

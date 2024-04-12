@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 2168,
+    "assets": [
+        "Green.png",
+        "Golden hair.png",
+        "Mechanic body.png",
+        "Smiling .png",
+        "Colored ears.png",
+        "Dark brown hair.png",
+        "Astronaut suite .png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:32:07",
+    "story": "Pwnky, a creature from the Green of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "2168_2024-04-11_233207",
+    "description": "a new Pwnkey with Green, Golden hair, Mechanic body, Smiling , Colored ears, Dark brown hair, Astronaut suite , Blue glasses",
+    "rarity_percentages": {
+        "Green.png": "6.29%",
+        "Golden hair.png": "14.62%",
+        "Mechanic body.png": "19.40%",
+        "Smiling .png": "14.37%",
+        "Colored ears.png": "14.78%",
+        "Dark brown hair.png": "6.99%",
+        "Astronaut suite .png": "12.23%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Normal"
+}
