@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3278,
+    "assets": [
+        "Yellow.png",
+        "Eyes of love.png",
+        "Body.png",
+        "Yawning.png",
+        "Ears Up!.png",
+        "Brown hair.png",
+        "Astronaut suite .png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:33:44",
+    "story": "Pwnky, a creature from the Yellow of Inpinity Online, ventured through the digital realms with Eyes of love eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3278_2024-04-11_233344",
+    "description": "a new Pwnkey with Yellow, Eyes of love, Body, Yawning, Ears Up!, Brown hair, Astronaut suite , Blue glasses",
+    "rarity_percentages": {
+        "Yellow.png": "6.45%",
+        "Eyes of love.png": "6.83%",
+        "Body.png": "20.28%",
+        "Yawning.png": "14.68%",
+        "Ears Up!.png": "14.30%",
+        "Brown hair.png": "7.04%",
+        "Astronaut suite .png": "12.23%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Uncommon"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3621,
+    "assets": [
+        "Blue waves.png",
+        "Dark bad eyes.png",
+        "Zombie.png",
+        "Sad.png",
+        "Ears Up!.png",
+        "Hidden hair.png",
+        "Capitain.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:34:15",
+    "story": "Pwnky, a creature from the Blue waves of Inpinity Online, ventured through the digital realms with Dark bad eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Hidden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3621_2024-04-11_233415",
+    "description": "a new Pwnkey with Blue waves, Dark bad eyes, Zombie, Sad, Ears Up!, Hidden hair, Capitain, Halo",
+    "rarity_percentages": {
+        "Blue waves.png": "6.42%",
+        "Dark bad eyes.png": "7.42%",
+        "Zombie.png": "19.45%",
+        "Sad.png": "14.55%",
+        "Ears Up!.png": "14.30%",
+        "Hidden hair.png": "7.44%",
+        "Capitain.png": "12.01%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Rare"
+}

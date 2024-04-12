@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3986,
+    "assets": [
+        "Yin Yang.png",
+        "Golden hair.png",
+        "Body.png",
+        "Laughing .png",
+        "Ears bow.png",
+        "Brown hair.png",
+        "Comic crown.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:34:48",
+    "story": "Pwnky, a creature from the Yin Yang of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3986_2024-04-11_233448",
+    "description": "a new Pwnkey with Yin Yang, Golden hair, Body, Laughing , Ears bow, Brown hair, Comic crown, Halo",
+    "rarity_percentages": {
+        "Yin Yang.png": "6.42%",
+        "Golden hair.png": "14.62%",
+        "Body.png": "20.28%",
+        "Laughing .png": "14.44%",
+        "Ears bow.png": "14.11%",
+        "Brown hair.png": "7.04%",
+        "Comic crown.png": "13.09%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Normal"
+}

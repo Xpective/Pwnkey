@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3457,
+    "assets": [
+        "Yin Yang.png",
+        "Dreaming eyes.png",
+        "Body.png",
+        "Laughing .png",
+        "Ears Up!.png",
+        "Hair on fire.png",
+        "Capitain.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:34:00",
+    "story": "Pwnky, a creature from the Yin Yang of Inpinity Online, ventured through the digital realms with Dreaming eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3457_2024-04-11_233400",
+    "description": "a new Pwnkey with Yin Yang, Dreaming eyes, Body, Laughing , Ears Up!, Hair on fire, Capitain, sunglasses beach",
+    "rarity_percentages": {
+        "Yin Yang.png": "6.42%",
+        "Dreaming eyes.png": "7.41%",
+        "Body.png": "20.28%",
+        "Laughing .png": "14.44%",
+        "Ears Up!.png": "14.30%",
+        "Hair on fire.png": "7.30%",
+        "Capitain.png": "12.01%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Common"
+}

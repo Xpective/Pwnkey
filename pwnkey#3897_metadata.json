@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3897,
+    "assets": [
+        "Blue waves.png",
+        "Yellow eyes .png",
+        "Body.png",
+        "Mechanic mouth .png",
+        "Sad ear.png",
+        "Golden hair.png",
+        "Crown.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:34:40",
+    "story": "Pwnky, a creature from the Blue waves of Inpinity Online, ventured through the digital realms with Yellow eyes  eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Golden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3897_2024-04-11_233440",
+    "description": "a new Pwnkey with Blue waves, Yellow eyes , Body, Mechanic mouth , Sad ear, Golden hair, Crown, sunglasses beach",
+    "rarity_percentages": {
+        "Blue waves.png": "6.42%",
+        "Yellow eyes .png": "6.93%",
+        "Body.png": "20.28%",
+        "Mechanic mouth .png": "14.74%",
+        "Sad ear.png": "14.39%",
+        "Golden hair.png": "14.62%",
+        "Crown.png": "12.51%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Uncommon"
+}

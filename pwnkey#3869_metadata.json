@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3869,
+    "assets": [
+        "Icy land.png",
+        "Green eyes.png",
+        "Zombie.png",
+        "Yawning.png",
+        "Golden ears.png",
+        "Yellow hair .png",
+        "Vikings hat.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:34:37",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Yellow hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3869_2024-04-11_233437",
+    "description": "a new Pwnkey with Icy land, Green eyes, Zombie, Yawning, Golden ears, Yellow hair , Vikings hat, Halo",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Green eyes.png": "7.03%",
+        "Zombie.png": "19.45%",
+        "Yawning.png": "14.68%",
+        "Golden ears.png": "14.61%",
+        "Yellow hair .png": "6.38%",
+        "Vikings hat.png": "12.58%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Rare"
+}

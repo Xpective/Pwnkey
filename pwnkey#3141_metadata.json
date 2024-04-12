@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3141,
+    "assets": [
+        "Green.png",
+        "Yellow eyes .png",
+        "Body.png",
+        "Yawning.png",
+        "Sad ear.png",
+        "Dark brown hair.png",
+        "Crown.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:33:32",
+    "story": "Pwnky, a creature from the Green of Inpinity Online, ventured through the digital realms with Yellow eyes  eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3141_2024-04-11_233332",
+    "description": "a new Pwnkey with Green, Yellow eyes , Body, Yawning, Sad ear, Dark brown hair, Crown, Horns",
+    "rarity_percentages": {
+        "Green.png": "6.29%",
+        "Yellow eyes .png": "6.93%",
+        "Body.png": "20.28%",
+        "Yawning.png": "14.68%",
+        "Sad ear.png": "14.39%",
+        "Dark brown hair.png": "6.99%",
+        "Crown.png": "12.51%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

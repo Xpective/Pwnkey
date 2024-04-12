@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3985,
+    "assets": [
+        "Yin Yang.png",
+        "Green eyes.png",
+        "Golden body.png",
+        "Smiling .png",
+        "Comic ear.png",
+        "Blue heroic hair.png",
+        "Vikings hat.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:34:48",
+    "story": "Pwnky, a creature from the Yin Yang of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Blue heroic hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3985_2024-04-11_233448",
+    "description": "a new Pwnkey with Yin Yang, Green eyes, Golden body, Smiling , Comic ear, Blue heroic hair, Vikings hat, sunglasses beach",
+    "rarity_percentages": {
+        "Yin Yang.png": "6.42%",
+        "Green eyes.png": "7.03%",
+        "Golden body.png": "20.32%",
+        "Smiling .png": "14.37%",
+        "Comic ear.png": "14.02%",
+        "Blue heroic hair.png": "7.51%",
+        "Vikings hat.png": "12.58%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Epic"
+}

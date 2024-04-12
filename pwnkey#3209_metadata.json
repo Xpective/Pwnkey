@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3209,
+    "assets": [
+        "Cyan.png",
+        "Bad eyes.png",
+        "Golden body.png",
+        "Yawning.png",
+        "Colored ears.png",
+        "Cool blue hair.png",
+        "Old captain .png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:33:38",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Cool blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Old captain  hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3209_2024-04-11_233338",
+    "description": "a new Pwnkey with Cyan, Bad eyes, Golden body, Yawning, Colored ears, Cool blue hair, Old captain , Jacket ",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Bad eyes.png": "7.16%",
+        "Golden body.png": "20.32%",
+        "Yawning.png": "14.68%",
+        "Colored ears.png": "14.78%",
+        "Cool blue hair.png": "7.40%",
+        "Old captain .png": "12.41%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Rare"
+}

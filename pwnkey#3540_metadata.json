@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3540,
+    "assets": [
+        "Farm.png",
+        "Blue eyes .png",
+        "Mechanic body.png",
+        "Laughing .png",
+        "Colored ears.png",
+        "Pink hair.png",
+        "Capitain.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:34:08",
+    "story": "Pwnky, a creature from the Farm of Inpinity Online, ventured through the digital realms with Blue eyes  eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Pink hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3540_2024-04-11_233408",
+    "description": "a new Pwnkey with Farm, Blue eyes , Mechanic body, Laughing , Colored ears, Pink hair, Capitain, Halo",
+    "rarity_percentages": {
+        "Farm.png": "6.17%",
+        "Blue eyes .png": "7.10%",
+        "Mechanic body.png": "19.40%",
+        "Laughing .png": "14.44%",
+        "Colored ears.png": "14.78%",
+        "Pink hair.png": "7.30%",
+        "Capitain.png": "12.01%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Common"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3035,
+    "assets": [
+        "Landscape .png",
+        "Eyes of love.png",
+        "Zombie.png",
+        "Smiling .png",
+        "Ears Up!.png",
+        "Pink hair.png",
+        "Capitain.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:33:23",
+    "story": "Pwnky, a creature from the Landscape  of Inpinity Online, ventured through the digital realms with Eyes of love eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Pink hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3035_2024-04-11_233323",
+    "description": "a new Pwnkey with Landscape , Eyes of love, Zombie, Smiling , Ears Up!, Pink hair, Capitain, Glasses",
+    "rarity_percentages": {
+        "Landscape .png": "6.27%",
+        "Eyes of love.png": "6.83%",
+        "Zombie.png": "19.45%",
+        "Smiling .png": "14.37%",
+        "Ears Up!.png": "14.30%",
+        "Pink hair.png": "7.30%",
+        "Capitain.png": "12.01%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

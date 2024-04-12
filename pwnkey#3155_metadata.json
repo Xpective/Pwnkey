@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3155,
+    "assets": [
+        "Space.png",
+        "Bad eyes.png",
+        "Mechanic body.png",
+        "Yawning.png",
+        "Comic ear.png",
+        "Cool blue hair.png",
+        "Crown.png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:33:33",
+    "story": "Pwnky, a creature from the Space of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Cool blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3155_2024-04-11_233333",
+    "description": "a new Pwnkey with Space, Bad eyes, Mechanic body, Yawning, Comic ear, Cool blue hair, Crown, Blue glasses",
+    "rarity_percentages": {
+        "Space.png": "6.65%",
+        "Bad eyes.png": "7.16%",
+        "Mechanic body.png": "19.40%",
+        "Yawning.png": "14.68%",
+        "Comic ear.png": "14.02%",
+        "Cool blue hair.png": "7.40%",
+        "Crown.png": "12.51%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Uncommon"
+}

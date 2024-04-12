@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3563,
+    "assets": [
+        "Beach.png",
+        "Bad eyes.png",
+        "Golden body.png",
+        "Yawning.png",
+        "Gold earrings .png",
+        "Blonde hair.png",
+        "Capitain.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:34:10",
+    "story": "Pwnky, a creature from the Beach of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Gold earrings  ears fluttered in the electronic winds, and Blonde hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3563_2024-04-11_233410",
+    "description": "a new Pwnkey with Beach, Bad eyes, Golden body, Yawning, Gold earrings , Blonde hair, Capitain, Horns",
+    "rarity_percentages": {
+        "Beach.png": "5.87%",
+        "Bad eyes.png": "7.16%",
+        "Golden body.png": "20.32%",
+        "Yawning.png": "14.68%",
+        "Gold earrings .png": "13.97%",
+        "Blonde hair.png": "6.98%",
+        "Capitain.png": "12.01%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Common"
+}

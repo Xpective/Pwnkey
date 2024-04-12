@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3629,
+    "assets": [
+        "Purple night.png",
+        "Golden hair.png",
+        "Body.png",
+        "Smiling .png",
+        "Gold earrings .png",
+        "Hidden hair.png",
+        "Hat with leafs .png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:34:16",
+    "story": "Pwnky, a creature from the Purple night of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Gold earrings  ears fluttered in the electronic winds, and Hidden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3629_2024-04-11_233416",
+    "description": "a new Pwnkey with Purple night, Golden hair, Body, Smiling , Gold earrings , Hidden hair, Hat with leafs , Halo",
+    "rarity_percentages": {
+        "Purple night.png": "6.31%",
+        "Golden hair.png": "14.62%",
+        "Body.png": "20.28%",
+        "Smiling .png": "14.37%",
+        "Gold earrings .png": "13.97%",
+        "Hidden hair.png": "7.44%",
+        "Hat with leafs .png": "12.58%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Epic"
+}

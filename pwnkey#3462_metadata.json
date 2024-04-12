@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3462,
+    "assets": [
+        "Farm.png",
+        "Bad eyes.png",
+        "Sick.png",
+        "Smiling .png",
+        "Ears bow.png",
+        "Long blue hair.png",
+        "Crown.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:34:00",
+    "story": "Pwnky, a creature from the Farm of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Long blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3462_2024-04-11_233400",
+    "description": "a new Pwnkey with Farm, Bad eyes, Sick, Smiling , Ears bow, Long blue hair, Crown, Horns",
+    "rarity_percentages": {
+        "Farm.png": "6.17%",
+        "Bad eyes.png": "7.16%",
+        "Sick.png": "20.73%",
+        "Smiling .png": "14.37%",
+        "Ears bow.png": "14.11%",
+        "Long blue hair.png": "7.23%",
+        "Crown.png": "12.51%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Epic"
+}

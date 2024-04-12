@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3546,
+    "assets": [
+        "Icy land.png",
+        "Green eyes.png",
+        "Golden body.png",
+        "Yawning.png",
+        "Golden ears.png",
+        "Pink hair.png",
+        "Astronaut suite .png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:34:08",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Pink hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3546_2024-04-11_233408",
+    "description": "a new Pwnkey with Icy land, Green eyes, Golden body, Yawning, Golden ears, Pink hair, Astronaut suite , Halo",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Green eyes.png": "7.03%",
+        "Golden body.png": "20.32%",
+        "Yawning.png": "14.68%",
+        "Golden ears.png": "14.61%",
+        "Pink hair.png": "7.30%",
+        "Astronaut suite .png": "12.23%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Rare"
+}

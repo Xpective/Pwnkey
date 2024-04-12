@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3672,
+    "assets": [
+        "Black night.png",
+        "Yellow eyes .png",
+        "Zombie.png",
+        "Mechanic mouth .png",
+        "Sad ear.png",
+        "Dark hair.png",
+        "Old captain .png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:34:20",
+    "story": "Pwnky, a creature from the Black night of Inpinity Online, ventured through the digital realms with Yellow eyes  eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Dark hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Old captain  hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3672_2024-04-11_233420",
+    "description": "a new Pwnkey with Black night, Yellow eyes , Zombie, Mechanic mouth , Sad ear, Dark hair, Old captain , Blue glasses",
+    "rarity_percentages": {
+        "Black night.png": "5.81%",
+        "Yellow eyes .png": "6.93%",
+        "Zombie.png": "19.45%",
+        "Mechanic mouth .png": "14.74%",
+        "Sad ear.png": "14.39%",
+        "Dark hair.png": "6.91%",
+        "Old captain .png": "12.41%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Normal"
+}

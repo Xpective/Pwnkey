@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3506,
+    "assets": [
+        "Space.png",
+        "Green eyes.png",
+        "Zombie.png",
+        "Smiling .png",
+        "Ears bow.png",
+        "Pink hair.png",
+        "Crown.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:34:04",
+    "story": "Pwnky, a creature from the Space of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Pink hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3506_2024-04-11_233404",
+    "description": "a new Pwnkey with Space, Green eyes, Zombie, Smiling , Ears bow, Pink hair, Crown, Glasses",
+    "rarity_percentages": {
+        "Space.png": "6.65%",
+        "Green eyes.png": "7.03%",
+        "Zombie.png": "19.45%",
+        "Smiling .png": "14.37%",
+        "Ears bow.png": "14.11%",
+        "Pink hair.png": "7.30%",
+        "Crown.png": "12.51%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

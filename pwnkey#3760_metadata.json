@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3760,
+    "assets": [
+        "City.png",
+        "Golden hair.png",
+        "Zombie.png",
+        "Mechanic mouth .png",
+        "Ears bow.png",
+        "Dark brown hair.png",
+        "Crown.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:34:27",
+    "story": "Pwnky, a creature from the City of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3760_2024-04-11_233427",
+    "description": "a new Pwnkey with City, Golden hair, Zombie, Mechanic mouth , Ears bow, Dark brown hair, Crown, sunglasses beach",
+    "rarity_percentages": {
+        "City.png": "6.44%",
+        "Golden hair.png": "14.62%",
+        "Zombie.png": "19.45%",
+        "Mechanic mouth .png": "14.74%",
+        "Ears bow.png": "14.11%",
+        "Dark brown hair.png": "6.99%",
+        "Crown.png": "12.51%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Normal"
+}

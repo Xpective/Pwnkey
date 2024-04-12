@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3302,
+    "assets": [
+        "Yin Yang.png",
+        "Green eyes.png",
+        "Golden body.png",
+        "Yawning.png",
+        "Colored ears.png",
+        "Golden hair.png",
+        "Comic crown.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:33:46",
+    "story": "Pwnky, a creature from the Yin Yang of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Golden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3302_2024-04-11_233346",
+    "description": "a new Pwnkey with Yin Yang, Green eyes, Golden body, Yawning, Colored ears, Golden hair, Comic crown, Horns",
+    "rarity_percentages": {
+        "Yin Yang.png": "6.42%",
+        "Green eyes.png": "7.03%",
+        "Golden body.png": "20.32%",
+        "Yawning.png": "14.68%",
+        "Colored ears.png": "14.78%",
+        "Golden hair.png": "14.62%",
+        "Comic crown.png": "13.09%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

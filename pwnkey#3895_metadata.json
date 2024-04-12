@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3895,
+    "assets": [
+        "Space.png",
+        "Bad eyes.png",
+        "Zombie.png",
+        "Sad.png",
+        "Colored ears.png",
+        "Hidden hair.png",
+        "Capitain.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:34:39",
+    "story": "Pwnky, a creature from the Space of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Hidden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3895_2024-04-11_233439",
+    "description": "a new Pwnkey with Space, Bad eyes, Zombie, Sad, Colored ears, Hidden hair, Capitain, Halo",
+    "rarity_percentages": {
+        "Space.png": "6.65%",
+        "Bad eyes.png": "7.16%",
+        "Zombie.png": "19.45%",
+        "Sad.png": "14.55%",
+        "Colored ears.png": "14.78%",
+        "Hidden hair.png": "7.44%",
+        "Capitain.png": "12.01%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Legendary"
+}

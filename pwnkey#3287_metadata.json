@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3287,
+    "assets": [
+        "Red .png",
+        "Light green eyes .png",
+        "Body.png",
+        "Smiling .png",
+        "Sad ear.png",
+        "Hair on fire.png",
+        "Vikings hat.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:33:45",
+    "story": "Pwnky, a creature from the Red  of Inpinity Online, ventured through the digital realms with Light green eyes  eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3287_2024-04-11_233345",
+    "description": "a new Pwnkey with Red , Light green eyes , Body, Smiling , Sad ear, Hair on fire, Vikings hat, Halo",
+    "rarity_percentages": {
+        "Red .png": "5.99%",
+        "Light green eyes .png": "7.63%",
+        "Body.png": "20.28%",
+        "Smiling .png": "14.37%",
+        "Sad ear.png": "14.39%",
+        "Hair on fire.png": "7.30%",
+        "Vikings hat.png": "12.58%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Common"
+}

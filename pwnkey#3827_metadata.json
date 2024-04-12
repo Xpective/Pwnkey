@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3827,
+    "assets": [
+        "Landscape .png",
+        "Dreaming eyes .png",
+        "Body.png",
+        "Yawning.png",
+        "Ears bow.png",
+        "Blue heroic hair.png",
+        "Capitain.png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:34:33",
+    "story": "Pwnky, a creature from the Landscape  of Inpinity Online, ventured through the digital realms with Dreaming eyes  eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Blue heroic hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3827_2024-04-11_233433",
+    "description": "a new Pwnkey with Landscape , Dreaming eyes , Body, Yawning, Ears bow, Blue heroic hair, Capitain, Blue glasses",
+    "rarity_percentages": {
+        "Landscape .png": "6.27%",
+        "Dreaming eyes .png": "7.13%",
+        "Body.png": "20.28%",
+        "Yawning.png": "14.68%",
+        "Ears bow.png": "14.11%",
+        "Blue heroic hair.png": "7.51%",
+        "Capitain.png": "12.01%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Common"
+}

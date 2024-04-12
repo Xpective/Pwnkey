@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3052,
+    "assets": [
+        "Icy land.png",
+        "Pink eyes.png",
+        "Body.png",
+        "Yawning.png",
+        "Sad ear.png",
+        "Golden hair.png",
+        "Old captain .png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:33:24",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Pink eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Golden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Old captain  hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3052_2024-04-11_233324",
+    "description": "a new Pwnkey with Icy land, Pink eyes, Body, Yawning, Sad ear, Golden hair, Old captain , Glasses",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Pink eyes.png": "7.11%",
+        "Body.png": "20.28%",
+        "Yawning.png": "14.68%",
+        "Sad ear.png": "14.39%",
+        "Golden hair.png": "14.62%",
+        "Old captain .png": "12.41%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

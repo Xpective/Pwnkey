@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3456,
+    "assets": [
+        "Cyan.png",
+        "Green eyes.png",
+        "Mechanic body.png",
+        "Shocked open mouth .png",
+        "Gold earrings .png",
+        "Yellow heroic hair .png",
+        "Hat with leafs .png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:34:00",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Shocked open mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Gold earrings  ears fluttered in the electronic winds, and Yellow heroic hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3456_2024-04-11_233400",
+    "description": "a new Pwnkey with Cyan, Green eyes, Mechanic body, Shocked open mouth , Gold earrings , Yellow heroic hair , Hat with leafs , Horns",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Green eyes.png": "7.03%",
+        "Mechanic body.png": "19.40%",
+        "Shocked open mouth .png": "13.88%",
+        "Gold earrings .png": "13.97%",
+        "Yellow heroic hair .png": "7.27%",
+        "Hat with leafs .png": "12.58%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3751,
+    "assets": [
+        "Icy land.png",
+        "Pink eyes.png",
+        "Golden body.png",
+        "Laughing .png",
+        "Comic ear.png",
+        "Pink hair.png",
+        "Hat with leafs .png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:34:27",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Pink eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Pink hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3751_2024-04-11_233427",
+    "description": "a new Pwnkey with Icy land, Pink eyes, Golden body, Laughing , Comic ear, Pink hair, Hat with leafs , Horns",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Pink eyes.png": "7.11%",
+        "Golden body.png": "20.32%",
+        "Laughing .png": "14.44%",
+        "Comic ear.png": "14.02%",
+        "Pink hair.png": "7.30%",
+        "Hat with leafs .png": "12.58%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

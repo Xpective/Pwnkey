@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3516,
+    "assets": [
+        "Purple night.png",
+        "Yellow eyes .png",
+        "Golden body.png",
+        "Sad.png",
+        "Ears Up!.png",
+        "Brown hair.png",
+        "Astronaut suite .png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:34:05",
+    "story": "Pwnky, a creature from the Purple night of Inpinity Online, ventured through the digital realms with Yellow eyes  eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3516_2024-04-11_233405",
+    "description": "a new Pwnkey with Purple night, Yellow eyes , Golden body, Sad, Ears Up!, Brown hair, Astronaut suite , Halo",
+    "rarity_percentages": {
+        "Purple night.png": "6.31%",
+        "Yellow eyes .png": "6.93%",
+        "Golden body.png": "20.32%",
+        "Sad.png": "14.55%",
+        "Ears Up!.png": "14.30%",
+        "Brown hair.png": "7.04%",
+        "Astronaut suite .png": "12.23%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Normal"
+}

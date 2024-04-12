@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 3272,
+    "assets": [
+        "Beach.png",
+        "Red eyes.png",
+        "Zombie.png",
+        "Hilarious laughing .png",
+        "Ears bow.png",
+        "Dark brown hair.png",
+        "Capitain.png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:33:44",
+    "story": "Pwnky, a creature from the Beach of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Hilarious laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "3272_2024-04-11_233344",
+    "description": "a new Pwnkey with Beach, Red eyes, Zombie, Hilarious laughing , Ears bow, Dark brown hair, Capitain, Jacket ",
+    "rarity_percentages": {
+        "Beach.png": "5.87%",
+        "Red eyes.png": "7.24%",
+        "Zombie.png": "19.45%",
+        "Hilarious laughing .png": "13.52%",
+        "Ears bow.png": "14.11%",
+        "Dark brown hair.png": "6.99%",
+        "Capitain.png": "12.01%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Epic"
+}
