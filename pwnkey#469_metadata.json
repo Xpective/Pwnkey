@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 469,
+    "assets": [
+        "Yin Yang.png",
+        "Bad eyes.png",
+        "Sick.png",
+        "Smiling .png",
+        "Ears bow.png",
+        "Dark brown hair.png",
+        "Comic crown.png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:29:45",
+    "story": "Pwnky, a creature from the Yin Yang of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "469_2024-04-11_232945",
+    "description": "a new Pwnkey with Yin Yang, Bad eyes, Sick, Smiling , Ears bow, Dark brown hair, Comic crown, Jacket ",
+    "rarity_percentages": {
+        "Yin Yang.png": "6.42%",
+        "Bad eyes.png": "7.16%",
+        "Sick.png": "20.73%",
+        "Smiling .png": "14.37%",
+        "Ears bow.png": "14.11%",
+        "Dark brown hair.png": "6.99%",
+        "Comic crown.png": "13.09%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 625,
+    "assets": [
+        "Red .png",
+        "Golden hair.png",
+        "Body.png",
+        "Mechanic mouth .png",
+        "Ears Up!.png",
+        "Long blue hair.png",
+        "Astronaut suite .png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:29:58",
+    "story": "Pwnky, a creature from the Red  of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Long blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "625_2024-04-11_232958",
+    "description": "a new Pwnkey with Red , Golden hair, Body, Mechanic mouth , Ears Up!, Long blue hair, Astronaut suite , Jacket ",
+    "rarity_percentages": {
+        "Red .png": "5.99%",
+        "Golden hair.png": "14.62%",
+        "Body.png": "20.28%",
+        "Mechanic mouth .png": "14.74%",
+        "Ears Up!.png": "14.30%",
+        "Long blue hair.png": "7.23%",
+        "Astronaut suite .png": "12.23%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Normal"
+}

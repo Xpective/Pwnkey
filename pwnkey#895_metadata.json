@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 895,
+    "assets": [
+        "Farm.png",
+        "Eyes of love.png",
+        "Zombie.png",
+        "Smiling .png",
+        "Ears bow.png",
+        "Yellow heroic hair .png",
+        "Black hat.png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:30:20",
+    "story": "Pwnky, a creature from the Farm of Inpinity Online, ventured through the digital realms with Eyes of love eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Yellow heroic hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Black hat hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "895_2024-04-11_233020",
+    "description": "a new Pwnkey with Farm, Eyes of love, Zombie, Smiling , Ears bow, Yellow heroic hair , Black hat, Blue glasses",
+    "rarity_percentages": {
+        "Farm.png": "6.17%",
+        "Eyes of love.png": "6.83%",
+        "Zombie.png": "19.45%",
+        "Smiling .png": "14.37%",
+        "Ears bow.png": "14.11%",
+        "Yellow heroic hair .png": "7.27%",
+        "Black hat.png": "12.77%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Uncommon"
+}

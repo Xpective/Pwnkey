@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 579,
+    "assets": [
+        "Farm.png",
+        "Red eyes.png",
+        "Golden body.png",
+        "Hilarious laughing .png",
+        "Golden ears.png",
+        "Brown hair.png",
+        "Astronaut suite .png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:29:54",
+    "story": "Pwnky, a creature from the Farm of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Hilarious laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "579_2024-04-11_232954",
+    "description": "a new Pwnkey with Farm, Red eyes, Golden body, Hilarious laughing , Golden ears, Brown hair, Astronaut suite , Glasses",
+    "rarity_percentages": {
+        "Farm.png": "6.17%",
+        "Red eyes.png": "7.24%",
+        "Golden body.png": "20.32%",
+        "Hilarious laughing .png": "13.52%",
+        "Golden ears.png": "14.61%",
+        "Brown hair.png": "7.04%",
+        "Astronaut suite .png": "12.23%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

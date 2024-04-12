@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 453,
+    "assets": [
+        "Space.png",
+        "Golden hair.png",
+        "Sick.png",
+        "Mechanic mouth .png",
+        "Comic ear.png",
+        "Hair on fire.png",
+        "Hat with leafs .png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:29:44",
+    "story": "Pwnky, a creature from the Space of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "453_2024-04-11_232944",
+    "description": "a new Pwnkey with Space, Golden hair, Sick, Mechanic mouth , Comic ear, Hair on fire, Hat with leafs , Glasses",
+    "rarity_percentages": {
+        "Space.png": "6.65%",
+        "Golden hair.png": "14.62%",
+        "Sick.png": "20.73%",
+        "Mechanic mouth .png": "14.74%",
+        "Comic ear.png": "14.02%",
+        "Hair on fire.png": "7.30%",
+        "Hat with leafs .png": "12.58%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Epic"
+}

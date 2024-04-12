@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 381,
+    "assets": [
+        "Blue waves.png",
+        "Brown eyes .png",
+        "Body.png",
+        "Mechanic mouth .png",
+        "Ears Up!.png",
+        "Dark hair.png",
+        "Astronaut suite .png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:29:38",
+    "story": "Pwnky, a creature from the Blue waves of Inpinity Online, ventured through the digital realms with Brown eyes  eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Dark hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "381_2024-04-11_232938",
+    "description": "a new Pwnkey with Blue waves, Brown eyes , Body, Mechanic mouth , Ears Up!, Dark hair, Astronaut suite , Horns",
+    "rarity_percentages": {
+        "Blue waves.png": "6.42%",
+        "Brown eyes .png": "6.95%",
+        "Body.png": "20.28%",
+        "Mechanic mouth .png": "14.74%",
+        "Ears Up!.png": "14.30%",
+        "Dark hair.png": "6.91%",
+        "Astronaut suite .png": "12.23%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Common"
+}

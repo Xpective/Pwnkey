@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 826,
+    "assets": [
+        "Cyan.png",
+        "Bad eyes.png",
+        "Sick.png",
+        "Yawning.png",
+        "Gold earrings .png",
+        "Blue heroic hair.png",
+        "Comic crown.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:30:15",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Gold earrings  ears fluttered in the electronic winds, and Blue heroic hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "826_2024-04-11_233015",
+    "description": "a new Pwnkey with Cyan, Bad eyes, Sick, Yawning, Gold earrings , Blue heroic hair, Comic crown, Glasses",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Bad eyes.png": "7.16%",
+        "Sick.png": "20.73%",
+        "Yawning.png": "14.68%",
+        "Gold earrings .png": "13.97%",
+        "Blue heroic hair.png": "7.51%",
+        "Comic crown.png": "13.09%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Rare"
+}

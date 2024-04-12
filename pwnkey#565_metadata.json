@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 565,
+    "assets": [
+        "Icy land.png",
+        "Light green eyes .png",
+        "Mechanic body.png",
+        "Smiling .png",
+        "Golden ears.png",
+        "Long blue hair.png",
+        "Black hat.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:29:53",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Light green eyes  eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Long blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Black hat hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "565_2024-04-11_232953",
+    "description": "a new Pwnkey with Icy land, Light green eyes , Mechanic body, Smiling , Golden ears, Long blue hair, Black hat, sunglasses beach",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Light green eyes .png": "7.63%",
+        "Mechanic body.png": "19.40%",
+        "Smiling .png": "14.37%",
+        "Golden ears.png": "14.61%",
+        "Long blue hair.png": "7.23%",
+        "Black hat.png": "12.77%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Common"
+}

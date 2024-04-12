@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 966,
+    "assets": [
+        "Black night.png",
+        "Bad eyes.png",
+        "Mechanic body.png",
+        "Smiling .png",
+        "Ears bow.png",
+        "Dark brown hair.png",
+        "Vikings hat.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:30:26",
+    "story": "Pwnky, a creature from the Black night of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "966_2024-04-11_233026",
+    "description": "a new Pwnkey with Black night, Bad eyes, Mechanic body, Smiling , Ears bow, Dark brown hair, Vikings hat, sunglasses beach",
+    "rarity_percentages": {
+        "Black night.png": "5.81%",
+        "Bad eyes.png": "7.16%",
+        "Mechanic body.png": "19.40%",
+        "Smiling .png": "14.37%",
+        "Ears bow.png": "14.11%",
+        "Dark brown hair.png": "6.99%",
+        "Vikings hat.png": "12.58%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Normal"
+}

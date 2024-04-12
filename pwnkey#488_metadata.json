@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 488,
+    "assets": [
+        "Cyan.png",
+        "Bad eyes.png",
+        "Body.png",
+        "Yawning.png",
+        "Comic ear.png",
+        "Blonde hair.png",
+        "Astronaut suite .png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:29:47",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Blonde hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "488_2024-04-11_232947",
+    "description": "a new Pwnkey with Cyan, Bad eyes, Body, Yawning, Comic ear, Blonde hair, Astronaut suite , Jacket ",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Bad eyes.png": "7.16%",
+        "Body.png": "20.28%",
+        "Yawning.png": "14.68%",
+        "Comic ear.png": "14.02%",
+        "Blonde hair.png": "6.98%",
+        "Astronaut suite .png": "12.23%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Normal"
+}

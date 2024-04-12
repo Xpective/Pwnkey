@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 917,
+    "assets": [
+        "Yellow.png",
+        "Dreaming eyes.png",
+        "Zombie.png",
+        "Mechanic mouth .png",
+        "Sad ear.png",
+        "Hair on fire.png",
+        "Vikings hat.png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:30:22",
+    "story": "Pwnky, a creature from the Yellow of Inpinity Online, ventured through the digital realms with Dreaming eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "917_2024-04-11_233022",
+    "description": "a new Pwnkey with Yellow, Dreaming eyes, Zombie, Mechanic mouth , Sad ear, Hair on fire, Vikings hat, Blue glasses",
+    "rarity_percentages": {
+        "Yellow.png": "6.45%",
+        "Dreaming eyes.png": "7.41%",
+        "Zombie.png": "19.45%",
+        "Mechanic mouth .png": "14.74%",
+        "Sad ear.png": "14.39%",
+        "Hair on fire.png": "7.30%",
+        "Vikings hat.png": "12.58%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Normal"
+}

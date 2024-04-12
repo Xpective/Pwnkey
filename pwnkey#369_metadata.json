@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 369,
+    "assets": [
+        "Yellow Clouds.png",
+        "Light blue eyes .png",
+        "Body.png",
+        "Yawning.png",
+        "Ears bow.png",
+        "Hidden hair.png",
+        "Capitain.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:29:37",
+    "story": "Pwnky, a creature from the Yellow Clouds of Inpinity Online, ventured through the digital realms with Light blue eyes  eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Hidden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "369_2024-04-11_232937",
+    "description": "a new Pwnkey with Yellow Clouds, Light blue eyes , Body, Yawning, Ears bow, Hidden hair, Capitain, Halo",
+    "rarity_percentages": {
+        "Yellow Clouds.png": "6.11%",
+        "Light blue eyes .png": "6.79%",
+        "Body.png": "20.28%",
+        "Yawning.png": "14.68%",
+        "Ears bow.png": "14.11%",
+        "Hidden hair.png": "7.44%",
+        "Capitain.png": "12.01%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Common"
+}

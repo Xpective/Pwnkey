@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 856,
+    "assets": [
+        "Farm.png",
+        "Bad eyes.png",
+        "Mechanic body.png",
+        "Hilarious laughing .png",
+        "Ears bow.png",
+        "Hair on fire.png",
+        "Astronaut suite .png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:30:17",
+    "story": "Pwnky, a creature from the Farm of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Hilarious laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "856_2024-04-11_233017",
+    "description": "a new Pwnkey with Farm, Bad eyes, Mechanic body, Hilarious laughing , Ears bow, Hair on fire, Astronaut suite , Horns",
+    "rarity_percentages": {
+        "Farm.png": "6.17%",
+        "Bad eyes.png": "7.16%",
+        "Mechanic body.png": "19.40%",
+        "Hilarious laughing .png": "13.52%",
+        "Ears bow.png": "14.11%",
+        "Hair on fire.png": "7.30%",
+        "Astronaut suite .png": "12.23%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Epic"
+}

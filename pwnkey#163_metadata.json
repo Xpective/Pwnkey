@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 163,
+    "assets": [
+        "Landscape .png",
+        "Red eyes.png",
+        "Mechanic body.png",
+        "Smiling .png",
+        "Sad ear.png",
+        "Yellow hair .png",
+        "Comic crown.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:29:21",
+    "story": "Pwnky, a creature from the Landscape  of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Yellow hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "163_2024-04-11_232921",
+    "description": "a new Pwnkey with Landscape , Red eyes, Mechanic body, Smiling , Sad ear, Yellow hair , Comic crown, sunglasses beach",
+    "rarity_percentages": {
+        "Landscape .png": "6.27%",
+        "Red eyes.png": "7.24%",
+        "Mechanic body.png": "19.40%",
+        "Smiling .png": "14.37%",
+        "Sad ear.png": "14.39%",
+        "Yellow hair .png": "6.38%",
+        "Comic crown.png": "13.09%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Normal"
+}

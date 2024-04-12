@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 626,
+    "assets": [
+        "Icy land.png",
+        "Eyes of love.png",
+        "Mechanic body.png",
+        "Yawning.png",
+        "Ears bow.png",
+        "Hair on fire.png",
+        "Comic crown.png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:29:58",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Eyes of love eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "626_2024-04-11_232958",
+    "description": "a new Pwnkey with Icy land, Eyes of love, Mechanic body, Yawning, Ears bow, Hair on fire, Comic crown, Blue glasses",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Eyes of love.png": "6.83%",
+        "Mechanic body.png": "19.40%",
+        "Yawning.png": "14.68%",
+        "Ears bow.png": "14.11%",
+        "Hair on fire.png": "7.30%",
+        "Comic crown.png": "13.09%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Uncommon"
+}

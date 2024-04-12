@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 615,
+    "assets": [
+        "Cyan.png",
+        "Golden hair.png",
+        "Golden body.png",
+        "Yawning.png",
+        "Ears bow.png",
+        "Dark hair.png",
+        "Old captain .png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:29:57",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Old captain  hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "615_2024-04-11_232957",
+    "description": "a new Pwnkey with Cyan, Golden hair, Golden body, Yawning, Ears bow, Dark hair, Old captain , Glasses",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Golden hair.png": "14.62%",
+        "Golden body.png": "20.32%",
+        "Yawning.png": "14.68%",
+        "Ears bow.png": "14.11%",
+        "Dark hair.png": "6.91%",
+        "Old captain .png": "12.41%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

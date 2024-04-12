@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 561,
+    "assets": [
+        "Cyan.png",
+        "Eyes of love.png",
+        "Sick.png",
+        "Smiling .png",
+        "Ears Up!.png",
+        "Dark hair.png",
+        "Black hat.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:29:53",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Eyes of love eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Dark hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Black hat hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "561_2024-04-11_232953",
+    "description": "a new Pwnkey with Cyan, Eyes of love, Sick, Smiling , Ears Up!, Dark hair, Black hat, sunglasses beach",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Eyes of love.png": "6.83%",
+        "Sick.png": "20.73%",
+        "Smiling .png": "14.37%",
+        "Ears Up!.png": "14.30%",
+        "Dark hair.png": "6.91%",
+        "Black hat.png": "12.77%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Normal"
+}
