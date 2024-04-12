@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1901,
+    "assets": [
+        "Cyan.png",
+        "Golden hair.png",
+        "Sick.png",
+        "Laughing .png",
+        "Comic ear.png",
+        "Hair on fire.png",
+        "Crown.png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:31:45",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1901_2024-04-11_233145",
+    "description": "a new Pwnkey with Cyan, Golden hair, Sick, Laughing , Comic ear, Hair on fire, Crown, Jacket ",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Golden hair.png": "14.62%",
+        "Sick.png": "20.73%",
+        "Laughing .png": "14.44%",
+        "Comic ear.png": "14.02%",
+        "Hair on fire.png": "7.30%",
+        "Crown.png": "12.51%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Normal"
+}

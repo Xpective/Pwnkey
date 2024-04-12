@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1043,
+    "assets": [
+        "Icy land.png",
+        "Eyes of love.png",
+        "Body.png",
+        "Hilarious laughing .png",
+        "Ears Up!.png",
+        "Cool blue hair.png",
+        "Black hat.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:30:32",
+    "story": "Pwnky, a creature from the Icy land of Inpinity Online, ventured through the digital realms with Eyes of love eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Hilarious laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Cool blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Black hat hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1043_2024-04-11_233032",
+    "description": "a new Pwnkey with Icy land, Eyes of love, Body, Hilarious laughing , Ears Up!, Cool blue hair, Black hat, Glasses",
+    "rarity_percentages": {
+        "Icy land.png": "6.23%",
+        "Eyes of love.png": "6.83%",
+        "Body.png": "20.28%",
+        "Hilarious laughing .png": "13.52%",
+        "Ears Up!.png": "14.30%",
+        "Cool blue hair.png": "7.40%",
+        "Black hat.png": "12.77%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Common"
+}

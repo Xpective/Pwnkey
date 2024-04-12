@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1685,
+    "assets": [
+        "Cyan.png",
+        "Eyes of love.png",
+        "Body.png",
+        "Hilarious laughing .png",
+        "Sad ear.png",
+        "Hair on fire.png",
+        "Capitain.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:31:26",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Eyes of love eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Hilarious laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1685_2024-04-11_233126",
+    "description": "a new Pwnkey with Cyan, Eyes of love, Body, Hilarious laughing , Sad ear, Hair on fire, Capitain, Halo",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Eyes of love.png": "6.83%",
+        "Body.png": "20.28%",
+        "Hilarious laughing .png": "13.52%",
+        "Sad ear.png": "14.39%",
+        "Hair on fire.png": "7.30%",
+        "Capitain.png": "12.01%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1643,
+    "assets": [
+        "Cyan.png",
+        "Yellow eyes .png",
+        "Zombie.png",
+        "Yawning.png",
+        "Ears bow.png",
+        "Dark brown hair.png",
+        "Capitain.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:31:23",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Yellow eyes  eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1643_2024-04-11_233123",
+    "description": "a new Pwnkey with Cyan, Yellow eyes , Zombie, Yawning, Ears bow, Dark brown hair, Capitain, Halo",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Yellow eyes .png": "6.93%",
+        "Zombie.png": "19.45%",
+        "Yawning.png": "14.68%",
+        "Ears bow.png": "14.11%",
+        "Dark brown hair.png": "6.99%",
+        "Capitain.png": "12.01%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Rare"
+}

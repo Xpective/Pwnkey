@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1573,
+    "assets": [
+        "City.png",
+        "Golden hair.png",
+        "Golden body.png",
+        "Mechanic mouth .png",
+        "Golden ears.png",
+        "Cool red hair.png",
+        "Capitain.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:31:17",
+    "story": "Pwnky, a creature from the City of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Cool red hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1573_2024-04-11_233117",
+    "description": "a new Pwnkey with City, Golden hair, Golden body, Mechanic mouth , Golden ears, Cool red hair, Capitain, Halo",
+    "rarity_percentages": {
+        "City.png": "6.44%",
+        "Golden hair.png": "14.62%",
+        "Golden body.png": "20.32%",
+        "Mechanic mouth .png": "14.74%",
+        "Golden ears.png": "14.61%",
+        "Cool red hair.png": "7.26%",
+        "Capitain.png": "12.01%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Legendary"
+}

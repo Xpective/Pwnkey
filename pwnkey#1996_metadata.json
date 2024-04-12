@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1996,
+    "assets": [
+        "Yin Yang.png",
+        "Dark bad eyes.png",
+        "Zombie.png",
+        "Laughing .png",
+        "Ears Up!.png",
+        "Hair on fire.png",
+        "Black hat.png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:31:53",
+    "story": "Pwnky, a creature from the Yin Yang of Inpinity Online, ventured through the digital realms with Dark bad eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Black hat hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1996_2024-04-11_233153",
+    "description": "a new Pwnkey with Yin Yang, Dark bad eyes, Zombie, Laughing , Ears Up!, Hair on fire, Black hat, Blue glasses",
+    "rarity_percentages": {
+        "Yin Yang.png": "6.42%",
+        "Dark bad eyes.png": "7.42%",
+        "Zombie.png": "19.45%",
+        "Laughing .png": "14.44%",
+        "Ears Up!.png": "14.30%",
+        "Hair on fire.png": "7.30%",
+        "Black hat.png": "12.77%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Rare"
+}

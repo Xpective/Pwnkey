@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1654,
+    "assets": [
+        "Cyan.png",
+        "Bad eyes.png",
+        "Golden body.png",
+        "Mechanic mouth .png",
+        "Ears Up!.png",
+        "Dark hair.png",
+        "Comic crown.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:31:24",
+    "story": "Pwnky, a creature from the Cyan of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Dark hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1654_2024-04-11_233124",
+    "description": "a new Pwnkey with Cyan, Bad eyes, Golden body, Mechanic mouth , Ears Up!, Dark hair, Comic crown, Glasses",
+    "rarity_percentages": {
+        "Cyan.png": "6.26%",
+        "Bad eyes.png": "7.16%",
+        "Golden body.png": "20.32%",
+        "Mechanic mouth .png": "14.74%",
+        "Ears Up!.png": "14.30%",
+        "Dark hair.png": "6.91%",
+        "Comic crown.png": "13.09%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Common"
+}

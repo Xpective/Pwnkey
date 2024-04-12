@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1283,
+    "assets": [
+        "Yellow.png",
+        "Bad eyes.png",
+        "Sick.png",
+        "Hilarious laughing .png",
+        "Golden ears.png",
+        "Blue heroic hair.png",
+        "Black hat.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:30:52",
+    "story": "Pwnky, a creature from the Yellow of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Hilarious laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Blue heroic hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Black hat hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1283_2024-04-11_233052",
+    "description": "a new Pwnkey with Yellow, Bad eyes, Sick, Hilarious laughing , Golden ears, Blue heroic hair, Black hat, Horns",
+    "rarity_percentages": {
+        "Yellow.png": "6.45%",
+        "Bad eyes.png": "7.16%",
+        "Sick.png": "20.73%",
+        "Hilarious laughing .png": "13.52%",
+        "Golden ears.png": "14.61%",
+        "Blue heroic hair.png": "7.51%",
+        "Black hat.png": "12.77%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

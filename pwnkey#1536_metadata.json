@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1536,
+    "assets": [
+        "Purple night.png",
+        "Dark bad eyes.png",
+        "Body.png",
+        "Smiling .png",
+        "Ears bow.png",
+        "Hair on fire.png",
+        "Hat with leafs .png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:31:14",
+    "story": "Pwnky, a creature from the Purple night of Inpinity Online, ventured through the digital realms with Dark bad eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Hair on fire hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1536_2024-04-11_233114",
+    "description": "a new Pwnkey with Purple night, Dark bad eyes, Body, Smiling , Ears bow, Hair on fire, Hat with leafs , Jacket ",
+    "rarity_percentages": {
+        "Purple night.png": "6.31%",
+        "Dark bad eyes.png": "7.42%",
+        "Body.png": "20.28%",
+        "Smiling .png": "14.37%",
+        "Ears bow.png": "14.11%",
+        "Hair on fire.png": "7.30%",
+        "Hat with leafs .png": "12.58%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Rare"
+}

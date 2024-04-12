@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1342,
+    "assets": [
+        "Beach.png",
+        "Pink eyes.png",
+        "Body.png",
+        "Yawning.png",
+        "Ears Up!.png",
+        "Blue heroic hair.png",
+        "Hat with leafs .png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:30:57",
+    "story": "Pwnky, a creature from the Beach of Inpinity Online, ventured through the digital realms with Pink eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Blue heroic hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1342_2024-04-11_233057",
+    "description": "a new Pwnkey with Beach, Pink eyes, Body, Yawning, Ears Up!, Blue heroic hair, Hat with leafs , sunglasses beach",
+    "rarity_percentages": {
+        "Beach.png": "5.87%",
+        "Pink eyes.png": "7.11%",
+        "Body.png": "20.28%",
+        "Yawning.png": "14.68%",
+        "Ears Up!.png": "14.30%",
+        "Blue heroic hair.png": "7.51%",
+        "Hat with leafs .png": "12.58%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Epic"
+}

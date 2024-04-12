@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1411,
+    "assets": [
+        "Purple night.png",
+        "Brown eyes .png",
+        "Sick.png",
+        "Yawning.png",
+        "Colored ears.png",
+        "Yellow heroic hair .png",
+        "Old captain .png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:31:03",
+    "story": "Pwnky, a creature from the Purple night of Inpinity Online, ventured through the digital realms with Brown eyes  eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Yellow heroic hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Old captain  hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1411_2024-04-11_233103",
+    "description": "a new Pwnkey with Purple night, Brown eyes , Sick, Yawning, Colored ears, Yellow heroic hair , Old captain , Glasses",
+    "rarity_percentages": {
+        "Purple night.png": "6.31%",
+        "Brown eyes .png": "6.95%",
+        "Sick.png": "20.73%",
+        "Yawning.png": "14.68%",
+        "Colored ears.png": "14.78%",
+        "Yellow heroic hair .png": "7.27%",
+        "Old captain .png": "12.41%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Common"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1800,
+    "assets": [
+        "Blue waves.png",
+        "Dreaming eyes .png",
+        "Mechanic body.png",
+        "Shocked open mouth .png",
+        "Ears Up!.png",
+        "Golden hair.png",
+        "Crown.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:31:36",
+    "story": "Pwnky, a creature from the Blue waves of Inpinity Online, ventured through the digital realms with Dreaming eyes  eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Shocked open mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Golden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1800_2024-04-11_233136",
+    "description": "a new Pwnkey with Blue waves, Dreaming eyes , Mechanic body, Shocked open mouth , Ears Up!, Golden hair, Crown, Horns",
+    "rarity_percentages": {
+        "Blue waves.png": "6.42%",
+        "Dreaming eyes .png": "7.13%",
+        "Mechanic body.png": "19.40%",
+        "Shocked open mouth .png": "13.88%",
+        "Ears Up!.png": "14.30%",
+        "Golden hair.png": "14.62%",
+        "Crown.png": "12.51%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Common"
+}

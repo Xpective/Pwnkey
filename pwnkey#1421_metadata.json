@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1421,
+    "assets": [
+        "Green.png",
+        "Dark bad eyes.png",
+        "Sick.png",
+        "Laughing .png",
+        "Ears bow.png",
+        "Brown hair.png",
+        "Astronaut suite .png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:31:04",
+    "story": "Pwnky, a creature from the Green of Inpinity Online, ventured through the digital realms with Dark bad eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1421_2024-04-11_233104",
+    "description": "a new Pwnkey with Green, Dark bad eyes, Sick, Laughing , Ears bow, Brown hair, Astronaut suite , Jacket ",
+    "rarity_percentages": {
+        "Green.png": "6.29%",
+        "Dark bad eyes.png": "7.42%",
+        "Sick.png": "20.73%",
+        "Laughing .png": "14.44%",
+        "Ears bow.png": "14.11%",
+        "Brown hair.png": "7.04%",
+        "Astronaut suite .png": "12.23%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Uncommon"
+}

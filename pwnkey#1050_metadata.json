@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1050,
+    "assets": [
+        "Blue waves.png",
+        "Light blue eyes .png",
+        "Sick.png",
+        "Yawning.png",
+        "Ears Up!.png",
+        "Golden hair.png",
+        "Capitain.png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:30:33",
+    "story": "Pwnky, a creature from the Blue waves of Inpinity Online, ventured through the digital realms with Light blue eyes  eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Golden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1050_2024-04-11_233033",
+    "description": "a new Pwnkey with Blue waves, Light blue eyes , Sick, Yawning, Ears Up!, Golden hair, Capitain, Blue sunglasses ",
+    "rarity_percentages": {
+        "Blue waves.png": "6.42%",
+        "Light blue eyes .png": "6.79%",
+        "Sick.png": "20.73%",
+        "Yawning.png": "14.68%",
+        "Ears Up!.png": "14.30%",
+        "Golden hair.png": "14.62%",
+        "Capitain.png": "12.01%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Common"
+}

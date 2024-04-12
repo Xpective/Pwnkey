@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1250,
+    "assets": [
+        "Beach.png",
+        "Red eyes.png",
+        "Golden body.png",
+        "Shocked open mouth .png",
+        "Sad ear.png",
+        "Brown hair.png",
+        "Old captain .png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:30:50",
+    "story": "Pwnky, a creature from the Beach of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Shocked open mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Old captain  hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1250_2024-04-11_233050",
+    "description": "a new Pwnkey with Beach, Red eyes, Golden body, Shocked open mouth , Sad ear, Brown hair, Old captain , Horns",
+    "rarity_percentages": {
+        "Beach.png": "5.87%",
+        "Red eyes.png": "7.24%",
+        "Golden body.png": "20.32%",
+        "Shocked open mouth .png": "13.88%",
+        "Sad ear.png": "14.39%",
+        "Brown hair.png": "7.04%",
+        "Old captain .png": "12.41%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

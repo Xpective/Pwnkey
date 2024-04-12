@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 1841,
+    "assets": [
+        "Landscape .png",
+        "Red eyes.png",
+        "Mechanic body.png",
+        "Laughing .png",
+        "Golden ears.png",
+        "Long blue hair.png",
+        "Comic crown.png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:31:40",
+    "story": "Pwnky, a creature from the Landscape  of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Golden ears ears fluttered in the electronic winds, and Long blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "1841_2024-04-11_233140",
+    "description": "a new Pwnkey with Landscape , Red eyes, Mechanic body, Laughing , Golden ears, Long blue hair, Comic crown, Blue glasses",
+    "rarity_percentages": {
+        "Landscape .png": "6.27%",
+        "Red eyes.png": "7.24%",
+        "Mechanic body.png": "19.40%",
+        "Laughing .png": "14.44%",
+        "Golden ears.png": "14.61%",
+        "Long blue hair.png": "7.23%",
+        "Comic crown.png": "13.09%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Normal"
+}
