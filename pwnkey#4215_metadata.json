@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4215,
+    "assets": [
+        "Farm.png",
+        "Bad eyes.png",
+        "Body.png",
+        "Yawning.png",
+        "Ears bow.png",
+        "Dark hair.png",
+        "Hat with leafs .png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:35:08",
+    "story": "Pwnky, a creature from the Farm of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4215_2024-04-11_233508",
+    "description": "a new Pwnkey with Farm, Bad eyes, Body, Yawning, Ears bow, Dark hair, Hat with leafs , Blue sunglasses ",
+    "rarity_percentages": {
+        "Farm.png": "6.17%",
+        "Bad eyes.png": "7.16%",
+        "Body.png": "20.28%",
+        "Yawning.png": "14.68%",
+        "Ears bow.png": "14.11%",
+        "Dark hair.png": "6.91%",
+        "Hat with leafs .png": "12.58%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Normal"
+}

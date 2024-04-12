@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4835,
+    "assets": [
+        "Black night.png",
+        "Light green eyes .png",
+        "Body.png",
+        "Laughing .png",
+        "Ears Up!.png",
+        "Cool red hair.png",
+        "Capitain.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:36:05",
+    "story": "Pwnky, a creature from the Black night of Inpinity Online, ventured through the digital realms with Light green eyes  eyes that sparkled with curiosity, a Body body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Cool red hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Capitain hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4835_2024-04-11_233605",
+    "description": "a new Pwnkey with Black night, Light green eyes , Body, Laughing , Ears Up!, Cool red hair, Capitain, Glasses",
+    "rarity_percentages": {
+        "Black night.png": "5.81%",
+        "Light green eyes .png": "7.63%",
+        "Body.png": "20.28%",
+        "Laughing .png": "14.44%",
+        "Ears Up!.png": "14.30%",
+        "Cool red hair.png": "7.26%",
+        "Capitain.png": "12.01%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

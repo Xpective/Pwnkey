@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4207,
+    "assets": [
+        "Purple night.png",
+        "Golden hair.png",
+        "Golden body.png",
+        "Laughing .png",
+        "Ears Up!.png",
+        "Brown hair.png",
+        "Comic crown.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:35:08",
+    "story": "Pwnky, a creature from the Purple night of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4207_2024-04-11_233508",
+    "description": "a new Pwnkey with Purple night, Golden hair, Golden body, Laughing , Ears Up!, Brown hair, Comic crown, Horns",
+    "rarity_percentages": {
+        "Purple night.png": "6.31%",
+        "Golden hair.png": "14.62%",
+        "Golden body.png": "20.32%",
+        "Laughing .png": "14.44%",
+        "Ears Up!.png": "14.30%",
+        "Brown hair.png": "7.04%",
+        "Comic crown.png": "13.09%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

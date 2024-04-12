@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4541,
+    "assets": [
+        "Green.png",
+        "Red eyes.png",
+        "Golden body.png",
+        "Yawning.png",
+        "Ears Up!.png",
+        "Blue heroic hair.png",
+        "Vikings hat.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:35:38",
+    "story": "Pwnky, a creature from the Green of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Blue heroic hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4541_2024-04-11_233538",
+    "description": "a new Pwnkey with Green, Red eyes, Golden body, Yawning, Ears Up!, Blue heroic hair, Vikings hat, Glasses",
+    "rarity_percentages": {
+        "Green.png": "6.29%",
+        "Red eyes.png": "7.24%",
+        "Golden body.png": "20.32%",
+        "Yawning.png": "14.68%",
+        "Ears Up!.png": "14.30%",
+        "Blue heroic hair.png": "7.51%",
+        "Vikings hat.png": "12.58%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

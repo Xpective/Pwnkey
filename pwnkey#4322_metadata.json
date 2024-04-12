@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4322,
+    "assets": [
+        "Red .png",
+        "Yellow eyes .png",
+        "Zombie.png",
+        "Yawning.png",
+        "Sad ear.png",
+        "Blonde hair.png",
+        "Hat with leafs .png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:35:18",
+    "story": "Pwnky, a creature from the Red  of Inpinity Online, ventured through the digital realms with Yellow eyes  eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Blonde hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4322_2024-04-11_233518",
+    "description": "a new Pwnkey with Red , Yellow eyes , Zombie, Yawning, Sad ear, Blonde hair, Hat with leafs , Horns",
+    "rarity_percentages": {
+        "Red .png": "5.99%",
+        "Yellow eyes .png": "6.93%",
+        "Zombie.png": "19.45%",
+        "Yawning.png": "14.68%",
+        "Sad ear.png": "14.39%",
+        "Blonde hair.png": "6.98%",
+        "Hat with leafs .png": "12.58%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

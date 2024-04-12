@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4870,
+    "assets": [
+        "Blue waves.png",
+        "Bad eyes.png",
+        "Zombie.png",
+        "Yawning.png",
+        "Ears bow.png",
+        "Dark brown hair.png",
+        "Comic crown.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:36:08",
+    "story": "Pwnky, a creature from the Blue waves of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark brown hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4870_2024-04-11_233608",
+    "description": "a new Pwnkey with Blue waves, Bad eyes, Zombie, Yawning, Ears bow, Dark brown hair, Comic crown, Horns",
+    "rarity_percentages": {
+        "Blue waves.png": "6.42%",
+        "Bad eyes.png": "7.16%",
+        "Zombie.png": "19.45%",
+        "Yawning.png": "14.68%",
+        "Ears bow.png": "14.11%",
+        "Dark brown hair.png": "6.99%",
+        "Comic crown.png": "13.09%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Common"
+}

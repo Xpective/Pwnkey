@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4323,
+    "assets": [
+        "Black night.png",
+        "Pink eyes.png",
+        "Zombie.png",
+        "Sad.png",
+        "Colored ears.png",
+        "Blue heroic hair.png",
+        "Crown.png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:35:18",
+    "story": "Pwnky, a creature from the Black night of Inpinity Online, ventured through the digital realms with Pink eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Blue heroic hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4323_2024-04-11_233518",
+    "description": "a new Pwnkey with Black night, Pink eyes, Zombie, Sad, Colored ears, Blue heroic hair, Crown, sunglasses beach",
+    "rarity_percentages": {
+        "Black night.png": "5.81%",
+        "Pink eyes.png": "7.11%",
+        "Zombie.png": "19.45%",
+        "Sad.png": "14.55%",
+        "Colored ears.png": "14.78%",
+        "Blue heroic hair.png": "7.51%",
+        "Crown.png": "12.51%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Normal"
+}

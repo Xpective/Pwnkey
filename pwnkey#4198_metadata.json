@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4198,
+    "assets": [
+        "Farm.png",
+        "Dreaming eyes.png",
+        "Mechanic body.png",
+        "Smiling .png",
+        "Colored ears.png",
+        "Dark hair.png",
+        "Vikings hat.png",
+        "Glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:35:07",
+    "story": "Pwnky, a creature from the Farm of Inpinity Online, ventured through the digital realms with Dreaming eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Smiling  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Dark hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Vikings hat hat crafted by the artisans of the net, Pwnky discovered the Glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4198_2024-04-11_233507",
+    "description": "a new Pwnkey with Farm, Dreaming eyes, Mechanic body, Smiling , Colored ears, Dark hair, Vikings hat, Glasses",
+    "rarity_percentages": {
+        "Farm.png": "6.17%",
+        "Dreaming eyes.png": "7.41%",
+        "Mechanic body.png": "19.40%",
+        "Smiling .png": "14.37%",
+        "Colored ears.png": "14.78%",
+        "Dark hair.png": "6.91%",
+        "Vikings hat.png": "12.58%",
+        "Glasses.png": "13.73%"
+    },
+    "rarity": "Normal"
+}

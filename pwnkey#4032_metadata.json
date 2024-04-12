@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4032,
+    "assets": [
+        "Farm.png",
+        "Bad eyes.png",
+        "Golden body.png",
+        "Yawning.png",
+        "Ears Up!.png",
+        "Yellow heroic hair .png",
+        "Hat with leafs .png",
+        "sunglasses beach.png"
+    ],
+    "creation_time": "2024-04-11 23:34:52",
+    "story": "Pwnky, a creature from the Farm of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Yellow heroic hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the sunglasses beach, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4032_2024-04-11_233452",
+    "description": "a new Pwnkey with Farm, Bad eyes, Golden body, Yawning, Ears Up!, Yellow heroic hair , Hat with leafs , sunglasses beach",
+    "rarity_percentages": {
+        "Farm.png": "6.17%",
+        "Bad eyes.png": "7.16%",
+        "Golden body.png": "20.32%",
+        "Yawning.png": "14.68%",
+        "Ears Up!.png": "14.30%",
+        "Yellow heroic hair .png": "7.27%",
+        "Hat with leafs .png": "12.58%",
+        "sunglasses beach.png": "13.93%"
+    },
+    "rarity": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4398,
+    "assets": [
+        "Green.png",
+        "Red eyes.png",
+        "Sick.png",
+        "Shocked open mouth .png",
+        "Comic ear.png",
+        "Hidden hair.png",
+        "Astronaut suite .png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:35:25",
+    "story": "Pwnky, a creature from the Green of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Sick body that shimmered with the essence of creativity, and a Shocked open mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Comic ear ears fluttered in the electronic winds, and Hidden hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4398_2024-04-11_233525",
+    "description": "a new Pwnkey with Green, Red eyes, Sick, Shocked open mouth , Comic ear, Hidden hair, Astronaut suite , Blue sunglasses ",
+    "rarity_percentages": {
+        "Green.png": "6.29%",
+        "Red eyes.png": "7.24%",
+        "Sick.png": "20.73%",
+        "Shocked open mouth .png": "13.88%",
+        "Comic ear.png": "14.02%",
+        "Hidden hair.png": "7.44%",
+        "Astronaut suite .png": "12.23%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Epic"
+}

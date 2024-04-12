@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4111,
+    "assets": [
+        "Beach.png",
+        "Green eyes.png",
+        "Zombie.png",
+        "Hilarious laughing .png",
+        "Colored ears.png",
+        "Yellow hair .png",
+        "Black hat.png",
+        "Blue sunglasses .png"
+    ],
+    "creation_time": "2024-04-11 23:34:59",
+    "story": "Pwnky, a creature from the Beach of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Hilarious laughing  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Colored ears ears fluttered in the electronic winds, and Yellow hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Black hat hat crafted by the artisans of the net, Pwnky discovered the Blue sunglasses , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4111_2024-04-11_233459",
+    "description": "a new Pwnkey with Beach, Green eyes, Zombie, Hilarious laughing , Colored ears, Yellow hair , Black hat, Blue sunglasses ",
+    "rarity_percentages": {
+        "Beach.png": "5.87%",
+        "Green eyes.png": "7.03%",
+        "Zombie.png": "19.45%",
+        "Hilarious laughing .png": "13.52%",
+        "Colored ears.png": "14.78%",
+        "Yellow hair .png": "6.38%",
+        "Black hat.png": "12.77%",
+        "Blue sunglasses .png": "14.62%"
+    },
+    "rarity": "Normal"
+}

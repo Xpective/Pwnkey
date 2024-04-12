@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4519,
+    "assets": [
+        "Yellow.png",
+        "Bad eyes.png",
+        "Mechanic body.png",
+        "Yawning.png",
+        "Ears bow.png",
+        "Dark hair.png",
+        "Crown.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:35:36",
+    "story": "Pwnky, a creature from the Yellow of Inpinity Online, ventured through the digital realms with Bad eyes eyes that sparkled with curiosity, a Mechanic body body that shimmered with the essence of creativity, and a Yawning mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Dark hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Crown hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4519_2024-04-11_233536",
+    "description": "a new Pwnkey with Yellow, Bad eyes, Mechanic body, Yawning, Ears bow, Dark hair, Crown, Horns",
+    "rarity_percentages": {
+        "Yellow.png": "6.45%",
+        "Bad eyes.png": "7.16%",
+        "Mechanic body.png": "19.40%",
+        "Yawning.png": "14.68%",
+        "Ears bow.png": "14.11%",
+        "Dark hair.png": "6.91%",
+        "Crown.png": "12.51%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

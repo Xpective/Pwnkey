@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4223,
+    "assets": [
+        "City.png",
+        "Green eyes.png",
+        "Zombie.png",
+        "Mechanic mouth .png",
+        "Ears bow.png",
+        "Cool red hair.png",
+        "Black hat.png",
+        "Horns.png"
+    ],
+    "creation_time": "2024-04-11 23:35:09",
+    "story": "Pwnky, a creature from the City of Inpinity Online, ventured through the digital realms with Green eyes eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Cool red hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Black hat hat crafted by the artisans of the net, Pwnky discovered the Horns, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4223_2024-04-11_233509",
+    "description": "a new Pwnkey with City, Green eyes, Zombie, Mechanic mouth , Ears bow, Cool red hair, Black hat, Horns",
+    "rarity_percentages": {
+        "City.png": "6.44%",
+        "Green eyes.png": "7.03%",
+        "Zombie.png": "19.45%",
+        "Mechanic mouth .png": "14.74%",
+        "Ears bow.png": "14.11%",
+        "Cool red hair.png": "7.26%",
+        "Black hat.png": "12.77%",
+        "Horns.png": "14.20%"
+    },
+    "rarity": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4704,
+    "assets": [
+        "Purple night.png",
+        "Pink eyes.png",
+        "Golden body.png",
+        "Sad.png",
+        "Ears Up!.png",
+        "Blonde hair.png",
+        "Astronaut suite .png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:35:53",
+    "story": "Pwnky, a creature from the Purple night of Inpinity Online, ventured through the digital realms with Pink eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Blonde hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4704_2024-04-11_233553",
+    "description": "a new Pwnkey with Purple night, Pink eyes, Golden body, Sad, Ears Up!, Blonde hair, Astronaut suite , Blue glasses",
+    "rarity_percentages": {
+        "Purple night.png": "6.31%",
+        "Pink eyes.png": "7.11%",
+        "Golden body.png": "20.32%",
+        "Sad.png": "14.55%",
+        "Ears Up!.png": "14.30%",
+        "Blonde hair.png": "6.98%",
+        "Astronaut suite .png": "12.23%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Common"
+}

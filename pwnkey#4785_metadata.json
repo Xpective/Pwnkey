@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4785,
+    "assets": [
+        "Space.png",
+        "Golden hair.png",
+        "Zombie.png",
+        "Shocked open mouth .png",
+        "Sad ear.png",
+        "Long blue hair.png",
+        "Hat with leafs .png",
+        "Blue glasses.png"
+    ],
+    "creation_time": "2024-04-11 23:36:00",
+    "story": "Pwnky, a creature from the Space of Inpinity Online, ventured through the digital realms with Golden hair eyes that sparkled with curiosity, a Zombie body that shimmered with the essence of creativity, and a Shocked open mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Sad ear ears fluttered in the electronic winds, and Long blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Hat with leafs  hat crafted by the artisans of the net, Pwnky discovered the Blue glasses, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4785_2024-04-11_233600",
+    "description": "a new Pwnkey with Space, Golden hair, Zombie, Shocked open mouth , Sad ear, Long blue hair, Hat with leafs , Blue glasses",
+    "rarity_percentages": {
+        "Space.png": "6.65%",
+        "Golden hair.png": "14.62%",
+        "Zombie.png": "19.45%",
+        "Shocked open mouth .png": "13.88%",
+        "Sad ear.png": "14.39%",
+        "Long blue hair.png": "7.23%",
+        "Hat with leafs .png": "12.58%",
+        "Blue glasses.png": "13.83%"
+    },
+    "rarity": "Normal"
+}

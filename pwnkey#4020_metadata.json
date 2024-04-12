@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4020,
+    "assets": [
+        "Black night.png",
+        "Red eyes.png",
+        "Golden body.png",
+        "Sad.png",
+        "Ears bow.png",
+        "Cool blue hair.png",
+        "Astronaut suite .png",
+        "Jacket .png"
+    ],
+    "creation_time": "2024-04-11 23:34:51",
+    "story": "Pwnky, a creature from the Black night of Inpinity Online, ventured through the digital realms with Red eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Sad mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears bow ears fluttered in the electronic winds, and Cool blue hair hair flowed like the rivers of code that shaped the landscape. Adorned with a Astronaut suite  hat crafted by the artisans of the net, Pwnky discovered the Jacket , a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4020_2024-04-11_233451",
+    "description": "a new Pwnkey with Black night, Red eyes, Golden body, Sad, Ears bow, Cool blue hair, Astronaut suite , Jacket ",
+    "rarity_percentages": {
+        "Black night.png": "5.81%",
+        "Red eyes.png": "7.24%",
+        "Golden body.png": "20.32%",
+        "Sad.png": "14.55%",
+        "Ears bow.png": "14.11%",
+        "Cool blue hair.png": "7.40%",
+        "Astronaut suite .png": "12.23%",
+        "Jacket .png": "14.68%"
+    },
+    "rarity": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "collection": "Pwnkey",
+    "id": 4546,
+    "assets": [
+        "Green.png",
+        "Dreaming eyes.png",
+        "Golden body.png",
+        "Mechanic mouth .png",
+        "Ears Up!.png",
+        "Yellow hair .png",
+        "Comic crown.png",
+        "Halo.png"
+    ],
+    "creation_time": "2024-04-11 23:35:38",
+    "story": "Pwnky, a creature from the Green of Inpinity Online, ventured through the digital realms with Dreaming eyes eyes that sparkled with curiosity, a Golden body body that shimmered with the essence of creativity, and a Mechanic mouth  mouth that resonated with the voices of countless creators. On this journey, Pwnky's Ears Up! ears fluttered in the electronic winds, and Yellow hair  hair flowed like the rivers of code that shaped the landscape. Adorned with a Comic crown hat crafted by the artisans of the net, Pwnky discovered the Halo, a relic that could unlock new realms in this infinite universe.",
+    "dimensions": "370x370",
+    "hash": "4546_2024-04-11_233538",
+    "description": "a new Pwnkey with Green, Dreaming eyes, Golden body, Mechanic mouth , Ears Up!, Yellow hair , Comic crown, Halo",
+    "rarity_percentages": {
+        "Green.png": "6.29%",
+        "Dreaming eyes.png": "7.41%",
+        "Golden body.png": "20.32%",
+        "Mechanic mouth .png": "14.74%",
+        "Ears Up!.png": "14.30%",
+        "Yellow hair .png": "6.38%",
+        "Comic crown.png": "13.09%",
+        "Halo.png": "15.19%"
+    },
+    "rarity": "Normal"
+}
